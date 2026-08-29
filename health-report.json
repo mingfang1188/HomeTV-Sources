@@ -1,0 +1,28 @@
+{
+  "generatedAt": "2026-08-29T16:05:26+00:00",
+  "testedCurrentRecords": 505,
+  "testedGitHubCandidates": 865,
+  "twiceValidatedCandidates": 471,
+  "publishedChannels": 263,
+  "groups": {
+    "央视·卫视": 54,
+    "地方频道": 30,
+    "港澳台": 15,
+    "高尔夫": 4,
+    "足球": 5,
+    "综合体育": 16,
+    "纪录片": 22,
+    "电影": 30,
+    "电视剧·综艺": 28,
+    "少儿动漫": 18,
+    "国际新闻": 20,
+    "国际综合": 3,
+    "日本综合": 18
+  },
+  "criteria": {
+    "requiredConsecutivePasses": 2,
+    "minimumLiveSpeedMargin": 1.5,
+    "minimumInterestResolution": "720p",
+    "minimumGeneralResolution": "480p"
+  }
+}
