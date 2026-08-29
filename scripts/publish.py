@@ -84,9 +84,10 @@ def quote(value):
 def m3u_text(records):
     lines = ["#EXTM3U"]
     for record in records:
-        attrs = []
-        if record.get("tvg_id"):
-            attrs.append(f'tvg-id="{quote(record["tvg_id"])}"')
+        stable_id = hashlib.sha1(
+            f'{record["group"]}|{station_key(record)[1]}'.encode("utf-8")
+        ).hexdigest()[:16]
+        attrs = [f'tvg-id="hometv.{stable_id}"']
         attrs.append(f'tvg-name="{quote(record["name"])}"')
         if record.get("logo"):
             attrs.append(f'tvg-logo="{quote(record["logo"])}"')
