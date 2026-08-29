@@ -36,6 +36,14 @@ DEFAULT_USER_AGENT = (
     "Mozilla/5.0 (Linux; Android 13; Mobile) AppleWebKit/537.36 "
     "HomeTV-Audit/1.0"
 )
+POLICY_PATH = Path(__file__).resolve().parents[1] / "quality-policy.json"
+POLICY = json.loads(POLICY_PATH.read_text(encoding="utf-8")) if POLICY_PATH.exists() else {}
+MIN_SPEED_MARGIN = float(POLICY.get("minimumSpeedMargin", 1.5))
+MAX_MANIFEST_SECONDS = float(POLICY.get("maximumManifestSeconds", 8))
+MAX_DIRECT_STARTUP_SECONDS = float(POLICY.get("maximumDirectStartupSeconds", 8))
+INTEREST_GROUPS = set(POLICY.get("interestGroups", []))
+MIN_INTEREST_HEIGHT = int(POLICY.get("minimumResolution", {}).get("interestChannels", 720))
+MIN_GENERAL_HEIGHT = int(POLICY.get("minimumResolution", {}).get("generalChannels", 480))
 MAX_TEXT_BYTES = 2 * 1024 * 1024
 MAX_SEGMENT_BYTES = 24 * 1024 * 1024
 
@@ -410,13 +418,16 @@ def classify_hls(result, segment_fetch, duration, stream):
     if duration and segment_fetch["elapsed"] > 0:
         margin = duration / segment_fetch["elapsed"]
         result["speed_margin"] = round(margin, 3)
-    if segment_fetch["elapsed"] > 15:
+    if (result.get("manifest_seconds") or 0) > MAX_MANIFEST_SECONDS:
+        result["status"] = "SLOW"
+        result["reason"] = "playlist startup exceeded policy limit"
+    elif segment_fetch["elapsed"] > 15:
         result["status"] = "SLOW"
         result["reason"] = "segment download exceeded 15 seconds"
     elif margin is not None and margin < 1.15:
         result["status"] = "SLOW"
         result["reason"] = "download speed is below live bitrate"
-    elif margin is not None and margin < 1.5:
+    elif margin is not None and margin < MIN_SPEED_MARGIN:
         result["status"] = "BORDERLINE"
         result["reason"] = "download speed has little live-play margin"
     else:
@@ -457,9 +468,13 @@ async def audit_http(session, channel, host_semaphore):
                 1_000_000 if height >= 700 else
                 500_000
             )
-            if stream and elapsed <= 12 and result["throughput_bps"] >= required_bps:
+            if (
+                stream
+                and elapsed <= MAX_DIRECT_STARTUP_SECONDS
+                and result["throughput_bps"] >= required_bps
+            ):
                 result["status"] = "GOOD"
-            elif stream and elapsed > 12:
+            elif stream and elapsed > MAX_DIRECT_STARTUP_SECONDS:
                 result["status"] = "SLOW"
                 result["reason"] = "direct stream startup exceeded 12 seconds"
             elif stream:
@@ -491,6 +506,15 @@ async def audit_http(session, channel, host_semaphore):
         else:
             media_text = text
             media_url = first["url"]
+
+        if re.search(
+            r"#EXT-X-KEY:.*(?:METHOD=SAMPLE-AES|KEYFORMAT=|widevine|fairplay|playready)",
+            media_text,
+            re.IGNORECASE,
+        ):
+            result["status"] = "BAD"
+            result["reason"] = "DRM-protected HLS is not eligible"
+            return result
 
         segment = media_segment(media_text, media_url)
         if not segment:
@@ -528,7 +552,7 @@ async def audit_rtmp(channel):
     stream, elapsed, error = await ffprobe_url(channel["url"], channel["headers"])
     set_stream_info(result, stream)
     result["segment_seconds"] = round(elapsed, 3)
-    if stream and elapsed <= 12:
+    if stream and elapsed <= MAX_DIRECT_STARTUP_SECONDS:
         sustained, sample_elapsed, sample_error = await sample_rtmp(channel["url"])
         result["segment_seconds"] = round(sample_elapsed, 3)
         if sustained:
@@ -542,6 +566,17 @@ async def audit_rtmp(channel):
     else:
         result["status"] = "BAD"
         result["reason"] = error or "RTMP probe failed"
+    return result
+
+
+def apply_resolution_policy(result, channel):
+    if result["status"] != "GOOD":
+        return result
+    minimum = MIN_INTEREST_HEIGHT if channel.get("group") in INTEREST_GROUPS else MIN_GENERAL_HEIGHT
+    height = result.get("height") or 0
+    if height < minimum:
+        result["status"] = "BAD"
+        result["reason"] = f"actual resolution {height}p is below required {minimum}p"
     return result
 
 
@@ -599,6 +634,7 @@ async def main_async(args):
                 else:
                     host = parsed.hostname or parsed.scheme
                     result = await audit_http(session, channel, host_semaphores[host])
+                result = apply_resolution_policy(result, channel)
             results[key] = result
             async with lock:
                 completed += 1

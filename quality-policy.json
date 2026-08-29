@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "requiredPasses": 2,
+  "minimumSecondsBetweenPasses": 60,
+  "maximumManifestSeconds": 8,
+  "maximumDirectStartupSeconds": 8,
+  "minimumSpeedMargin": 1.5,
+  "minimumResolution": {
+    "interestChannels": 720,
+    "generalChannels": 480
+  },
+  "interestGroups": [
+    "高尔夫",
+    "足球",
+    "篮球",
+    "综合体育",
+    "纪录片",
+    "电影"
+  ],
+  "popularityOrderFile": "popularity-order.json",
+  "reject": [
+    "account_or_password_required",
+    "cookie_or_private_token_required",
+    "drm_required",
+    "paywall_or_subscription_slate",
+    "no_signal_or_wrong_content",
+    "geo_blocked_on_home_network",
+    "any_test_round_failed"
+  ]
+}

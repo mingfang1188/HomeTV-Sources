@@ -2,7 +2,6 @@
 
 import argparse
 import hashlib
-import importlib.util
 import json
 import re
 from collections import Counter, defaultdict
@@ -33,14 +32,6 @@ def parse_args():
     parser.add_argument("--audit", type=Path, required=True)
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
     return parser.parse_args()
-
-
-def load_parser(root):
-    path = root / "scripts" / "audit_streams.py"
-    spec = importlib.util.spec_from_file_location("audit_streams", path)
-    module = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(module)
-    return module
 
 
 def station_key(record):
@@ -104,8 +95,13 @@ def m3u_text(records):
 
 def main():
     args = parse_args()
-    parser = load_parser(args.root)
     now = datetime.now(timezone.utc).replace(microsecond=0)
+    popularity_path = args.root / "popularity-order.json"
+    popularity = (
+        json.loads(popularity_path.read_text(encoding="utf-8"))
+        if popularity_path.exists()
+        else {}
+    )
     audit = json.loads(args.audit.read_text(encoding="utf-8"))
     state_path = args.root / "health-state.json"
     previous_state = (
@@ -113,19 +109,10 @@ def main():
         if state_path.exists()
         else {}
     )
-    previous_curated = (
-        parser.parse_m3u(args.root / "curated.m3u", "previous")
-        if (args.root / "curated.m3u").exists()
-        else []
-    )
-    previous_by_station = {station_key(record): record for record in previous_curated}
-
     state = {}
     successful = defaultdict(list)
-    checked_keys = set()
     for record in audit["records"]:
         key = stream_key(record)
-        checked_keys.add(key)
         old = previous_state.get(key, {})
         failures = 0 if record["status"] == "GOOD" else int(old.get("failures", 0)) + 1
         state[key] = {
@@ -140,23 +127,22 @@ def main():
             successful[station_key(record)].append(record)
 
     selected = []
-    all_stations = set(successful) | set(previous_by_station)
-    for station in all_stations:
+    for station in successful:
         choices = successful.get(station, [])
         if choices:
             choices.sort(key=score, reverse=True)
             selected.append(choices[0])
-            continue
-        previous = previous_by_station.get(station)
-        if not previous:
-            continue
-        key = stream_key(previous)
-        if key in checked_keys and state.get(key, {}).get("failures", 2) < 2:
-            selected.append(previous)
 
     selected.sort(
         key=lambda record: (
             GROUP_ORDER.index(record["group"]) if record["group"] in GROUP_ORDER else 999,
+            (
+                popularity.get(record["group"], []).index(record["name"])
+                if record["name"] in popularity.get(record["group"], [])
+                else 9999
+            ),
+            -(record.get("height") or 0),
+            -(record.get("speed_margin") or 0),
             record["name"].lower(),
         )
     )
@@ -189,7 +175,8 @@ def main():
         "groups": manifest["groups"],
         "criteria": {
             "minimumLiveSpeedMargin": 1.5,
-            "consecutiveFailuresBeforeRemoval": 2,
+            "requiredCompletePasses": 2,
+            "anyFailedPassIsRejected": True,
         },
     }
     (args.root / "health-report.json").write_text(
