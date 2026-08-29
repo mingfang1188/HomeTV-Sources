@@ -273,8 +273,12 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 rtmp://f13h.mine.nu/sat/tv581
 #EXTINF:-1 tvg-id="hometv.503e0c3319e13bbd" tvg-name="CCTV高尔夫·网球" tvg-logo="https://i.imgur.com/iqJJTmH.png" group-title="高尔夫",CCTV高尔夫·网球
 http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="hometv.50250a554f05e535" tvg-name="Golf Channel（捷克）" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="高尔夫",Golf Channel（捷克）
+https://dash3.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.35c73cdf50f53dfa" tvg-name="GOLF LIFE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png" group-title="高尔夫",GOLF LIFE
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+#EXTINF:-1 tvg-id="hometv.c5e60c2565ded7ec" tvg-name="Golf Network 日本" tvg-logo="https://cdn.neotvapp.com/file/quickfox/top-tv/channels/golf-network-1767112889435.png" group-title="高尔夫",Golf Network 日本
+https://streams2.sofast.tv/ptnr-Khabriya/title-Golf_Network_Khabriya/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/0b044301-f965-424d-afed-41501b417c00/manifest.m3u8
 #EXTINF:-1 tvg-id="hometv.67b3f93b68f0ead2" tvg-name="GolfPass" group-title="高尔夫",GolfPass
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="hometv.07db1b547c3081e9" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="高尔夫",PGA Tour
