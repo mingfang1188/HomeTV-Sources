@@ -1,4 +1,14 @@
 {
+  "f60c6f8cbda20e0d0cbca7174411aa56ce205d25cb83a0a41f0dacd8ef6d50c4": {
+    "name": "Golf Channel（捷克）",
+    "group": "高尔夫",
+    "url": "https://dash.antik.sk/live/test_golf_channel/playlist.m3u8",
+    "status": "SLOW",
+    "failures": 1,
+    "checkedAt": "2026-09-11T16:11:57+00:00",
+    "manualIncluded": true,
+    "reason": "用户明确要求恢复捷克版；实测1280x720，完整播放测试仍卡顿，不计为稳定合格线路。官方网页提供5分钟试看，持续可用性和播放限制由运营商决定。"
+  },
   "3c7a9798bca08118bf95788d118cf3961e13b37a7643afb6cc4668edec2db499": {
     "name": "CCTV1",
     "group": "央视·卫视",

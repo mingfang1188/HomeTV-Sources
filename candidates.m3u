@@ -193,6 +193,8 @@ http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 #EXTINF:-1 tvg-id="hometv.e7413bcd79dbbe82" tvg-name="非凡新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Unique1.png" group-title="港澳台",非凡新闻
 rtmp://f13h.mine.nu/sat/tv581
+#EXTINF:-1 tvg-id="hometv.50250a554f05e535" tvg-name="Golf Channel（捷克）" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/golfchannel.png" group-title="高尔夫",Golf Channel（捷克）
+https://dash.antik.sk/live/test_golf_channel/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.67b3f93b68f0ead2" tvg-name="GolfPass" group-title="高尔夫",GolfPass
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="hometv.07db1b547c3081e9" tvg-name="PGA Tour" tvg-logo="https://i.imgur.com/J0TY9dG.png" group-title="高尔夫",PGA Tour

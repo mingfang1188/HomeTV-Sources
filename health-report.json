@@ -7,7 +7,26 @@
   "acceptedCandidates": 311,
   "rejectedCandidates": 726,
   "visualCheckedChannels": 79,
-  "publishedChannels": 266,
+  "publishedChannels": 267,
+  "manualIncludedCandidates": 1,
+  "manualUpdatedAt": "2026-09-11T17:01:41+00:00",
+  "manualInclusions": [
+    {
+      "name": "Golf Channel（捷克）",
+      "group": "高尔夫",
+      "url": "https://dash.antik.sk/live/test_golf_channel/playlist.m3u8",
+      "qualityApproved": false,
+      "resolution": "1280x720",
+      "reason": "用户在获知卡顿和官方试看限制后，明确要求加回捷克版。此为单频道手动恢复，不改变其他频道准入标准。",
+      "playbackTest": {
+        "wallSeconds": 60.185,
+        "videoSeconds": 23.554021,
+        "completed": false
+      },
+      "availabilityNote": "官方网页提供5分钟试看；该公开地址可能被调整或中止，不能保证不限时播放。",
+      "nextManualAudit": "仍按标准检测，未通过时会被常规发布脚本排除。"
+    }
+  ],
   "statusCounts": {
     "BAD": 726,
     "GOOD": 311
@@ -16,7 +35,7 @@
     "央视·卫视": 48,
     "地方频道": 29,
     "港澳台": 11,
-    "高尔夫": 2,
+    "高尔夫": 3,
     "足球": 4,
     "综合体育": 13,
     "纪录片": 38,
