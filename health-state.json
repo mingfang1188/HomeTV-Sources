@@ -2496,5 +2496,69 @@
     "status": "GOOD",
     "failures": 0,
     "checkedAt": "2026-09-11T15:31:42+00:00"
+  },
+  "50b1e3f9d91af0ec2622a8c40b645cae393e88245d02d4ea070d404ea32b6877": {
+    "name": "GOLF LIFE（日本）",
+    "group": "高尔夫",
+    "url": "https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "cd82c5a35c23dc4b1e0b8166d6af762cdec3462d80dfe7ccfaec607a2230271a": {
+    "name": "Golf Television（意大利）",
+    "group": "高尔夫",
+    "url": "https://jmp2.uk/stvp-IT4200001D8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "5a71c6665fb128586cb8822920306c6c43cf47684fabb2093fae3d5bff0b35e0": {
+    "name": "周星驰电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/11342412",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "dc5d619b8286978639ef06194dc9f4e56e0e38c506f39b164b817d40df998a45": {
+    "name": "林正英电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/11342421",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "8a8a63e184b4dee44b6a3e34c2ffcc2ad5bda4ee47aa72c1d7f47ed93321c9b5": {
+    "name": "沈腾电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/11601968",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "c6064c95af7b61e11875b48a30b90105d9bafbe1a30ae88e7dd186de70bbccfb": {
+    "name": "狄仁杰电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/30080229",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "2afdf18cb2e80d08ef1fcc774d91f9def65f81a22f78ceb49bc41508e0d9c56f": {
+    "name": "庆余年",
+    "group": "电视剧·综艺",
+    "url": "https://live.ottiptv.cc/huya/11352960",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
+  },
+  "830d97c24ff9e55f15b06e4630aae0c25b2ebf1700e2097aec5c5ac2d4746cdf": {
+    "name": "金庸武侠",
+    "group": "电视剧·综艺",
+    "url": "https://live.metshop.top/huya/11342435",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-09-15T11:04:03+00:00"
   }
 }

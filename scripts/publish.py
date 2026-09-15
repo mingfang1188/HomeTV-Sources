@@ -72,6 +72,17 @@ def quote(value):
     return str(value).replace('"', "'")
 
 
+def screen_language_priority(record):
+    if record["group"] not in {"电影", "电视剧·综艺"}:
+        return 0
+    # 地区、语言和清晰度注释不代表频道本身是中文节目。
+    name = re.sub(r"\([^)]*\)|（[^）]*）|\[[^]]*\]", "", record["name"])
+    chinese = re.search(r"[\u4e00-\u9fff]", name) or re.match(
+        r"(?:CCTV[- ]?\d|CHC\b|CIBN\b|NewTV\b|TVB\b)", name, re.I
+    )
+    return 0 if chinese else 1
+
+
 def m3u_text(records):
     lines = ["#EXTM3U"]
     for record in records:
@@ -136,6 +147,7 @@ def main():
     selected.sort(
         key=lambda record: (
             GROUP_ORDER.index(record["group"]) if record["group"] in GROUP_ORDER else 999,
+            screen_language_priority(record),
             (
                 popularity.get(record["group"], []).index(record["name"])
                 if record["name"] in popularity.get(record["group"], [])

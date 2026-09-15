@@ -181,6 +181,10 @@ https://dash.antik.sk/live/test_golf_channel/playlist.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.67b3f93b68f0ead2" tvg-name="GolfPass" group-title="高尔夫",GolfPass
 https://d2icntm6fhxrry.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="hometv.c0950361d6080c98" tvg-name="GOLF LIFE（日本）" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png" group-title="高尔夫",GOLF LIFE（日本）
+https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+#EXTINF:-1 tvg-id="hometv.cdb8599c738047d6" tvg-name="Golf Television（意大利）" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT4200001D8_20250513T010712SQUARE.png" group-title="高尔夫",Golf Television（意大利）
+https://jmp2.uk/stvp-IT4200001D8
 #EXTINF:-1 tvg-id="hometv.c836e606dbd2b01e" tvg-name="FIFA+ United States (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="足球",FIFA+ United States (720p)
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.0b5b3c2b41b4d418" tvg-name="Real Madrid TV (726p)" tvg-logo="https://i.imgur.com/5pMo7dL.png" group-title="足球",Real Madrid TV (726p)
@@ -293,6 +297,16 @@ https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheade
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.6063d895afddf772" tvg-name="CCTV6" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV6.png" group-title="电影",CCTV6
 http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-id="hometv.75ea6797c2963aa9" tvg-name="浙江教科" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="电影",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="hometv.5f187d4611c19dc5" tvg-name="周星驰电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",周星驰电影
+https://live.metshop.top/huya/11342412
+#EXTINF:-1 tvg-id="hometv.1c89c0fa55a8011d" tvg-name="林正英电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",林正英电影
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 tvg-id="hometv.4862cf1bdf45ec7e" tvg-name="沈腾电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",沈腾电影
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 tvg-id="hometv.d19268468140d52a" tvg-name="狄仁杰电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",狄仁杰电影
+https://live.metshop.top/huya/30080229
 #EXTINF:-1 tvg-id="hometv.8dbe09ec84b8d9bb" tvg-name="Hi-YAH! (1080p)" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="电影",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.94569f9e9c579307" tvg-name="Great! Movies (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="电影",Great! Movies (1080p)
@@ -313,8 +327,6 @@ https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
 https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.79ada138c902c476" tvg-name="Alien Nation by DUST (1080p)" group-title="电影",Alien Nation by DUST (1080p)
 https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
-#EXTINF:-1 tvg-id="hometv.75ea6797c2963aa9" tvg-name="浙江教科" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="电影",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="hometv.bf2d78dfcb5a3f79" tvg-name="Horror TV (1080p)" group-title="电影",Horror TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
 #EXTINF:-1 tvg-id="hometv.a08c169970d65b52" tvg-name="Drive In Movie Channel (1080p)" group-title="电影",Drive In Movie Channel (1080p)
@@ -379,6 +391,36 @@ https://live.ottiptv.cc/huya/29465862
 https://live.ottiptv.cc/huya/29465868
 #EXTINF:-1 tvg-id="hometv.df92d3bb45726a02" tvg-name="欢乐颂" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",欢乐颂
 https://live.ottiptv.cc/yy/1382735624
+#EXTINF:-1 tvg-id="hometv.6a2f348b52afb698" tvg-name="与凤行" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",与凤行
+https://live.ottiptv.cc/huya/26355866
+#EXTINF:-1 tvg-id="hometv.5703bf87f7bfc315" tvg-name="大秦赋" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",大秦赋
+https://live.ottiptv.cc/huya/23903130
+#EXTINF:-1 tvg-id="hometv.3ab2a3c029b15224" tvg-name="玫瑰的故事" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",玫瑰的故事
+https://live.ottiptv.cc/huya/23865142
+#EXTINF:-1 tvg-id="hometv.74e604755e4e2f06" tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧·综艺",铁齿铜牙纪晓岚
+https://live.ottiptv.cc/huya/11342396
+#EXTINF:-1 tvg-id="hometv.a294148e0f88c93d" tvg-name="乌龙闯情关" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/乌龙闯情关.png" group-title="电视剧·综艺",乌龙闯情关
+https://live.ottiptv.cc/huya/26355767
+#EXTINF:-1 tvg-id="hometv.23220be69c3b4988" tvg-name="倚天屠龙记" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧·综艺",倚天屠龙记
+https://live.ottiptv.cc/huya/11342403
+#EXTINF:-1 tvg-id="hometv.1c09511c0f880df8" tvg-name="永夜星河" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",永夜星河
+https://live.ottiptv.cc/huya/23734169
+#EXTINF:-1 tvg-id="hometv.7625cf3ac3434a12" tvg-name="鬼吹灯之龙岭迷窟" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视剧·综艺",鬼吹灯之龙岭迷窟
+https://live.ottiptv.cc/huya/29465863
+#EXTINF:-1 tvg-id="hometv.39bbf6e44e1fab5e" tvg-name="伪装者" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧·综艺",伪装者
+https://live.ottiptv.cc/yy/1354936244
+#EXTINF:-1 tvg-id="hometv.e56cbbcd088b4903" tvg-name="梦中的那片海" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",梦中的那片海
+https://live.ottiptv.cc/huya/26355765
+#EXTINF:-1 tvg-id="hometv.796138cd25d24ccf" tvg-name="流水迢迢" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",流水迢迢
+https://live.ottiptv.cc/huya/23865036
+#EXTINF:-1 tvg-id="hometv.84b9e9ca446d0a8d" tvg-name="谈判专家" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="电视剧·综艺",谈判专家
+https://live.ottiptv.cc/yy/1382735560
+#EXTINF:-1 tvg-id="hometv.380db1ee4eb8c255" tvg-name="雪豹" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧·综艺",雪豹
+https://live.ottiptv.cc/huya/29580970
+#EXTINF:-1 tvg-id="hometv.dde82ed6dd54902e" tvg-name="庆余年" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/庆余年.png" group-title="电视剧·综艺",庆余年
+https://live.ottiptv.cc/huya/11352960
+#EXTINF:-1 tvg-id="hometv.198c76cb93489a89" tvg-name="金庸武侠" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电视剧·综艺",金庸武侠
+https://live.metshop.top/huya/11342435
 #EXTINF:-1 tvg-id="hometv.595f3c2a3180aee9" tvg-name="BBC Series（意大利） (1080p)" tvg-logo="https://i.imgur.com/hY1M4hL.jpg" group-title="电视剧·综艺",BBC Series（意大利） (1080p)
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.b8009e76853aea53" tvg-name="Midsomer Murders (1080p)" tvg-logo="https://i.imgur.com/VFqfyfY.png" group-title="电视剧·综艺",Midsomer Murders (1080p)
@@ -411,38 +453,12 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3
 https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus
 #EXTINF:-1 tvg-id="hometv.deafef86d3e9ae97" tvg-name="Best Drama TV (1080p)" group-title="电视剧·综艺",Best Drama TV (1080p)
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
-#EXTINF:-1 tvg-id="hometv.6a2f348b52afb698" tvg-name="与凤行" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",与凤行
-https://live.ottiptv.cc/huya/26355866
-#EXTINF:-1 tvg-id="hometv.5703bf87f7bfc315" tvg-name="大秦赋" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",大秦赋
-https://live.ottiptv.cc/huya/23903130
-#EXTINF:-1 tvg-id="hometv.3ab2a3c029b15224" tvg-name="玫瑰的故事" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",玫瑰的故事
-https://live.ottiptv.cc/huya/23865142
-#EXTINF:-1 tvg-id="hometv.74e604755e4e2f06" tvg-name="铁齿铜牙纪晓岚" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/铁齿铜牙纪晓岚.png" group-title="电视剧·综艺",铁齿铜牙纪晓岚
-https://live.ottiptv.cc/huya/11342396
-#EXTINF:-1 tvg-id="hometv.a294148e0f88c93d" tvg-name="乌龙闯情关" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/乌龙闯情关.png" group-title="电视剧·综艺",乌龙闯情关
-https://live.ottiptv.cc/huya/26355767
-#EXTINF:-1 tvg-id="hometv.23220be69c3b4988" tvg-name="倚天屠龙记" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/倚天屠龙记苏有朋.png" group-title="电视剧·综艺",倚天屠龙记
-https://live.ottiptv.cc/huya/11342403
-#EXTINF:-1 tvg-id="hometv.1c09511c0f880df8" tvg-name="永夜星河" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",永夜星河
-https://live.ottiptv.cc/huya/23734169
-#EXTINF:-1 tvg-id="hometv.7625cf3ac3434a12" tvg-name="鬼吹灯之龙岭迷窟" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/龙岭迷窟.png" group-title="电视剧·综艺",鬼吹灯之龙岭迷窟
-https://live.ottiptv.cc/huya/29465863
 #EXTINF:-1 tvg-id="hometv.68878ac7abfe9373" tvg-name="FilmRise Z Nation France (720p)" group-title="电视剧·综艺",FilmRise Z Nation France (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
 #EXTINF:-1 tvg-id="hometv.d7a6c1acf1e45dfb" tvg-name="FilmRise Séries France (720p)" group-title="电视剧·综艺",FilmRise Séries France (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
 #EXTINF:-1 tvg-id="hometv.eb707fd6c569a88f" tvg-name="FilmRise Binge Watch France (720p)" group-title="电视剧·综艺",FilmRise Binge Watch France (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
-#EXTINF:-1 tvg-id="hometv.39bbf6e44e1fab5e" tvg-name="伪装者" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/伪装者.png" group-title="电视剧·综艺",伪装者
-https://live.ottiptv.cc/yy/1354936244
-#EXTINF:-1 tvg-id="hometv.e56cbbcd088b4903" tvg-name="梦中的那片海" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",梦中的那片海
-https://live.ottiptv.cc/huya/26355765
-#EXTINF:-1 tvg-id="hometv.796138cd25d24ccf" tvg-name="流水迢迢" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/电视剧.png" group-title="电视剧·综艺",流水迢迢
-https://live.ottiptv.cc/huya/23865036
-#EXTINF:-1 tvg-id="hometv.84b9e9ca446d0a8d" tvg-name="谈判专家" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/埋堆堆.png" group-title="电视剧·综艺",谈判专家
-https://live.ottiptv.cc/yy/1382735560
-#EXTINF:-1 tvg-id="hometv.380db1ee4eb8c255" tvg-name="雪豹" tvg-logo="https://ghproxy.net/raw.githubusercontent.com/suxuang/myIPTV/main/img/雪豹.png" group-title="电视剧·综艺",雪豹
-https://live.ottiptv.cc/huya/29580970
 #EXTINF:-1 tvg-id="hometv.ff048d1d5b62bac9" tvg-name="Nickelodeon CIS (1080p)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="少儿动漫",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.741bad081e2865e0" tvg-name="Cartoon Classics (1080p)" group-title="少儿动漫",Cartoon Classics (1080p)

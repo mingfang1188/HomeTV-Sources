@@ -15,6 +15,8 @@ HomeTV 智能电视版和安卓手机版共同使用的公开频道源。
 
 GitHub Actions 仅保留手动诊断能力，不会自动改写正式频道表。
 
+电影和电视剧·综艺分组优先排列国产／华语频道，外语频道放在后面；各类内部仍按既有热门频道顺序排序。
+
 在线地址：
 
 - `https://mingfang1188.github.io/HomeTV-Sources/curated.m3u`
