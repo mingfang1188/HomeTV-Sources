@@ -9,8 +9,8 @@ http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8
 #EXTINF:-1 tvg-id="hometv.e7329dd766432c04" tvg-name="CCTV17" group-title="央视·卫视",CCTV17
 http://74.91.26.218:82/live/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="hometv.d63ff7cff1cfd56f" tvg-name="湖南卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="央视·卫视" http-user-agent="AptvPlayer-UA",湖南卫视
-http://101.35.240.114:88/live.php?id=湖南卫视
+#EXTINF:-1 tvg-id="hometv.d63ff7cff1cfd56f" tvg-name="湖南卫视4K" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/湖南卫视.png" group-title="央视·卫视",湖南卫视4K
+http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 tvg-id="hometv.f5d8f0cf93f788e2" tvg-name="浙江卫视" tvg-logo="https://tb.zbds.top/logo/浙江卫视.png" group-title="央视·卫视",浙江卫视
 http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="hometv.3a50333d0f47eab6" tvg-name="东方卫视" tvg-logo="https://tb.zbds.top/logo/东方卫视4K.png" group-title="央视·卫视",东方卫视
@@ -19,8 +19,6 @@ https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="hometv.38754ae5d29b4a4a" tvg-name="深圳卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/深圳卫视.png" group-title="央视·卫视",深圳卫视
 http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="hometv.cd852ed980afea75" tvg-name="山东卫视" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/山东卫视.png" group-title="央视·卫视",山东卫视
-http://183.94.146.79:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="hometv.5464de8bea197ff4" tvg-name="四川卫视" tvg-logo="https://tb.zbds.top/logo/四川卫视.png" group-title="央视·卫视",四川卫视
 http://111.59.24.227:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="hometv.6926d5e04452ff8f" tvg-name="天津卫视" tvg-logo="https://tb.zbds.top/logo/天津卫视.png" group-title="央视·卫视",天津卫视
@@ -67,8 +65,6 @@ https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
 http://113.26.202.52:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="hometv.20397bbac8f22323" tvg-name="河北卫视" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/河北卫视.png" group-title="央视·卫视",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-#EXTINF:-1 tvg-id="hometv.f389174f00510d7a" tvg-name="邯郸公共频道" tvg-logo="https://live.fanmingming.cn/tv/邯郸公共频道.png" group-title="地方频道",邯郸公共频道
-https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8
 #EXTINF:-1 tvg-id="hometv.e0a997ab4a179342" tvg-name="浙江钱江" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang1.png" group-title="地方频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="hometv.bcadf63e1515fce9" tvg-name="浙江经济" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang2.png" group-title="地方频道",浙江经济
@@ -125,6 +121,8 @@ rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 rtmp://tv.yunxya.com:1937/channellive/shimian
 #EXTINF:-1 tvg-id="hometv.480edc25b15927f9" tvg-name="广元综合" group-title="地方频道",广元综合
 https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8
+#EXTINF:-1 tvg-id="hometv.709e25d2ca15b946" tvg-name="南宁影视娱乐" tvg-logo="https://live.fanmingming.cn/tv/南宁影视娱乐.png" group-title="地方频道",南宁影视娱乐
+http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 tvg-id="hometv.161203a0c0ce436e" tvg-name="大立电视台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/dalitv.png" group-title="港澳台",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 tvg-id="hometv.4dbbd1d5a58ee124" tvg-name="TVBS新闻台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVBS1.png" group-title="港澳台",TVBS新闻台
@@ -219,6 +217,14 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.dd3f113f694a23d4" tvg-name="Alone By History (720p)" group-title="纪录片",Alone By History (720p)
 https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="hometv.62ec84c0ade2d18d" tvg-name="NatureTime (1080p)" group-title="纪录片",NatureTime (1080p)
+https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="hometv.9a0ace0b5baa2c43" tvg-name="Stingray Naturescape (1080p)" group-title="纪录片",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="hometv.ece500ca2bc1475d" tvg-name="4K Travel TV (1080p)" group-title="纪录片",4K Travel TV (1080p)
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-id="hometv.9298fbd9c939aae6" tvg-name="Clarity 4K (2160p)" group-title="纪录片",Clarity 4K (2160p)
+https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
 #EXTINF:-1 tvg-id="hometv.75ea6797c2963aa9" tvg-name="浙江教科" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="电影",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="hometv.5f187d4611c19dc5" tvg-name="周星驰电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",周星驰电影
@@ -231,6 +237,8 @@ https://live.metshop.top/huya/11601968
 https://live.metshop.top/huya/11342424
 #EXTINF:-1 tvg-id="hometv.399735c4a1d0720c" tvg-name="成龙电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/成龙.png" group-title="电影",成龙电影
 http://222.186.39.38:8000/333207/index.m3u8
+#EXTINF:-1 tvg-id="hometv.fca1be84e8166867" tvg-name="功夫电影轮播" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ee36d21260434d5d9f3dfcb6a4cb57dd_big.jpg" group-title="电影",功夫电影轮播
+https://live.ottiptv.cc/douyu/9169624
 #EXTINF:-1 tvg-id="hometv.8dbe09ec84b8d9bb" tvg-name="Hi-YAH! (1080p)" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="电影",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.94569f9e9c579307" tvg-name="Great! Movies (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="电影",Great! Movies (1080p)
@@ -277,8 +285,6 @@ https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist
 https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8
 #EXTINF:-1 tvg-id="hometv.a39d439ab35d4287" tvg-name="FilmGold Germany (1080p)" group-title="电影",FilmGold Germany (1080p)
 https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="hometv.5b91a4efec8126f2" tvg-name="Asianet Movies HD (720p)" tvg-logo="https://dtil.tmsimg.com/assets/s158302_ld_h15_aa.png?lock=720x540" group-title="电影",Asianet Movies HD (720p)
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.95014f308e463927" tvg-name="24 Hour Free Movies (720p)" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="电影",24 Hour Free Movies (720p)
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 #EXTINF:-1 tvg-id="hometv.ab9a51f846e64162" tvg-name="Star Maa Movies HD (720p)" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Star%20Maa%20Movies%20HD.png" group-title="电影",Star Maa Movies HD (720p)
@@ -349,12 +355,10 @@ https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/cha
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="hometv.68878ac7abfe9373" tvg-name="FilmRise Z Nation France (720p)" group-title="电视剧·综艺",FilmRise Z Nation France (720p)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103
-#EXTINF:-1 tvg-id="hometv.d7a6c1acf1e45dfb" tvg-name="FilmRise Séries France (720p)" group-title="电视剧·综艺",FilmRise Séries France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033
-#EXTINF:-1 tvg-id="hometv.eb707fd6c569a88f" tvg-name="FilmRise Binge Watch France (720p)" group-title="电视剧·综艺",FilmRise Binge Watch France (720p)
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021
 #EXTINF:-1 tvg-id="hometv.da0dd279242b85f9" tvg-name="BBC Top Gear (1080p)" group-title="电视剧·综艺",BBC Top Gear (1080p)
 https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 tvg-id="hometv.c39a0a8a57ebb9ce" tvg-name="BBC Food (1080p)" group-title="电视剧·综艺",BBC Food (1080p)
+https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.ff048d1d5b62bac9" tvg-name="Nickelodeon CIS (1080p)" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="少儿动漫",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.ef92382a43e662ed" tvg-name="PBS Kids Mountain (1080p)" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="少儿动漫",PBS Kids Mountain (1080p)
@@ -411,5 +415,9 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="hometv.ace7b0eaad0e1ecb" tvg-name="RT News（英语国际）" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="国际综合",RT News（英语国际）
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="hometv.2c066bd7eaf0fc6b" tvg-name="Qello Concerts by Stingray (1080p)" group-title="国际综合",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-id="hometv.f11ff0e126fe2062" tvg-name="Stingray Classica (1080p)" group-title="国际综合",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="hometv.29584e02eb02ff56" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png" group-title="日本综合",キャンプ・アウトドア (FAST)
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8

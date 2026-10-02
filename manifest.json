@@ -1,22 +1,22 @@
 {
-  "version": "2026.09.26.0110",
-  "updatedAt": "2026-09-26T01:10:53+00:00",
-  "channelCount": 207,
-  "sha256": "451d3c7db278fe5a4893cf3fb32e2e29ec2b5e2fb1dad53c7b64d61d7d3efc44",
+  "version": "2026.10.02.1619",
+  "updatedAt": "2026-10-02T16:19:39+00:00",
+  "channelCount": 211,
+  "sha256": "2af9524ff3d7962661fca46d6fae575069debf5afcb1c7919d43a5dd07937bed",
   "playlistUrl": "https://mingfang1188.github.io/HomeTV-Sources/curated.m3u",
   "groups": {
-    "央视·卫视": 34,
+    "央视·卫视": 33,
     "地方频道": 29,
     "港澳台": 6,
     "高尔夫": 6,
     "足球": 2,
     "综合体育": 6,
-    "纪录片": 27,
+    "纪录片": 31,
     "电影": 34,
-    "电视剧·综艺": 34,
+    "电视剧·综艺": 33,
     "少儿动漫": 10,
     "国际新闻": 15,
-    "国际综合": 3,
+    "国际综合": 5,
     "日本综合": 1
   }
 }

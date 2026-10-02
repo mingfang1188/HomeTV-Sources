@@ -5,10 +5,15 @@
     "url": "https://dash.antik.sk/live/test_golf_channel/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:21+00:00",
+    "checkedAt": "2026-10-02T15:55:29+00:00",
     "manualIncluded": true,
-    "reason": "本轮两次基础检测及30秒解码通过；用户此前要求保留。短测不代表长期稳定或无限期免费授权。",
-    "published": true
+    "reason": "",
+    "published": true,
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "3c7a9798bca08118bf95788d118cf3961e13b37a7643afb6cc4668edec2db499": {
     "name": "CCTV1",
@@ -38,8 +43,14 @@
     "url": "http://219.147.245.238:25480/newlive/live/hls/12/live.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:49+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:47+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ea1ea1ff86c7c135c00acb6d00f1accacdca4b32fb1fb378ac2adcfc48514e01": {
     "name": "CCTV12",
@@ -58,8 +69,14 @@
     "url": "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:46+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d40e121ee89fb8ba56496c516f3a2f1faa1f09a4cf401c797c6ddb9f5a1c20cc": {
     "name": "CCTV13",
@@ -75,8 +92,14 @@
     "url": "http://219.147.245.238:25480/newlive/live/hls/16/live.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:31+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:44+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a8868a82f9d812fd279682928490333c48951c73dea227bb0d12db3e7264df2b": {
     "name": "CCTV17",
@@ -84,8 +107,14 @@
     "url": "http://74.91.26.218:82/live/cctv17hd.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:58+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:49+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "30da681f360e66a72daa1960fce4333f664ba556be0ecb40c17dea148f568bb1": {
     "name": "CCTV2",
@@ -135,8 +164,14 @@
     "url": "http://219.147.245.238:25480/newlive/live/hls/8/live.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:48+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:48+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c53d764d348a2b01998c93c8467cdc54de87c1102b8dfb5750864095ec47c031": {
     "name": "CCTV8",
@@ -166,8 +201,14 @@
     "url": "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:58+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "e6b7c77a4ec6e371cb65593cd6f5d01a12bd3ec080271251a2f4650db0698cd9": {
     "name": "东方卫视",
@@ -175,8 +216,14 @@
     "url": "https://bp-resource-dfl.bestv.cn/148/3/video.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:47+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a5deb2146657ac332d56a97f548cb10f85f0202ca6fa9a1b04837169b28653aa": {
     "name": "东方卫视",
@@ -192,8 +239,14 @@
     "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ynwshd",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "9a351c9b41f0ff3cc55e3d573455e81a3135cff8f5e4274b395c71e6cecc7399": {
     "name": "人间卫视",
@@ -212,8 +265,14 @@
     "url": "http://113.26.202.52:85/tsfile/live/0115_1.m3u8?key=txiptv&playlive=1&authid=0",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:06+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4910485a05d88d46a2650d4ca9de25ea14db797312f5d2c19213ab1f6384b212": {
     "name": "内蒙古卫视",
@@ -221,8 +280,14 @@
     "url": "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:59+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "0311a934a061ee665319057dee10bdbb70c229b5976bd471d88d5236328bee30": {
     "name": "北京卫视",
@@ -250,19 +315,41 @@
     "name": "四川卫视",
     "group": "央视·卫视",
     "url": "http://111.59.24.227:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:40:59+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:55:05+00:00",
+    "published": true,
+    "reason": "SocketTimeoutError: Timeout on reading data from socket",
+    "reviewPassStatuses": [
+      "BORDERLINE",
+      "GOOD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E06",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "856645f15628a62e746abca54c62a9d540252aebb4235492214e07069ad574b8": {
     "name": "天津卫视",
     "group": "央视·卫视",
     "url": "http://111.59.24.227:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:40:59+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:55:03+00:00",
+    "published": true,
+    "reason": "SocketTimeoutError: Timeout on reading data from socket",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E07",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "46933f0a30eb295b16f60ca51dad4b5b2e84f09d1acfa4bace1859c4b69c886d": {
     "name": "宁夏卫视",
@@ -270,8 +357,14 @@
     "url": "http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:55+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "3706d2d9c91b96ab481ad9aae6cd1824ab90a6dd60e55d94715074893612e788": {
     "name": "安多卫视",
@@ -279,8 +372,14 @@
     "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2a62f36c247cf38dbe6a3534a8fae295dd29b80913a81be24282cd0df39a7e24": {
     "name": "安徽卫视",
@@ -297,10 +396,18 @@
     "name": "山东卫视",
     "group": "央视·卫视",
     "url": "http://183.94.146.79:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:40:58+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:55:12+00:00",
+    "published": false,
+    "reason": "TimeoutError: ",
+    "reviewPassStatuses": [
+      "BAD",
+      "BAD",
+      "BAD"
+    ],
+    "removedByUserAt": "2026-10-02T16:19:39+00:00",
+    "removalId": "E01"
   },
   "d9bab25feccacb7ea88a088a2273856e67e30439eaddc9482e804b15f6d5471c": {
     "name": "山东教育",
@@ -308,8 +415,14 @@
     "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:03+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:05+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ecff409dddce39955b59bbe68ecf30d28de4c96ddaac4911ee33b3b6aa389d21": {
     "name": "山西卫视",
@@ -317,8 +430,14 @@
     "url": "http://119.39.9.8:9901/tsfile/live/0118_1.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:02+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:02+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7bdd0f600c4a2217ee33b0ecd3636d7475f7cbfc66ad9e1e16cb61d5a1c26402": {
     "name": "广东卫视",
@@ -326,8 +445,14 @@
     "url": "http://38.75.136.137:98/gslb/dsdqpub/gdwshd.m3u8?auth=testpub",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:51+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f4b2a753a2e206664892c32a8ae2994135c65a95989e89a8a2245ad8a989fc3a": {
     "name": "广东大湾区",
@@ -335,8 +460,14 @@
     "url": "http://222.128.55.152:9080/live/dwq.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:04+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:03+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "fa19bd867bc252836a7395e27f7f5d9d1be29598de580118b250f4a0575a8441": {
     "name": "广西卫视",
@@ -355,8 +486,14 @@
     "url": "https://srs.iyb983.cn/video/CYS/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:55+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "37888db11fbcc491ca965f1c94a4f233736ed7b90006ca21522e0c156f4913a4": {
     "name": "延边卫视",
@@ -372,8 +509,14 @@
     "url": "http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:56+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4b1e2a168b434888398f1dee81f4654f6940cd496ca2b806487c38626e95ec61": {
     "name": "江苏卫视",
@@ -392,8 +535,14 @@
     "url": "http://8.138.7.223/tv/jsws4k.php",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "43fc9aa695c1bc2f50ea6fe3a10891cbcd232dac25ec57a21d1c7e328337e6c7": {
     "name": "江西卫视",
@@ -401,8 +550,14 @@
     "url": "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:03+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ea2e013766c81c52dffc53827fa57ec8f9638b159a8081b6f119678acb4ac186": {
     "name": "河北4K",
@@ -410,8 +565,14 @@
     "url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:54+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "987a165420529c6a6e4b191452452bebad43d17556cad44e653ae50c2119476c": {
     "name": "河北卫视",
@@ -419,8 +580,14 @@
     "url": "http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "32aceb1197f017baa65ddf3bb997ec45e7a64093d13c89b583e7060468355097": {
     "name": "浙江卫视",
@@ -428,8 +595,14 @@
     "url": "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:42+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "afa1b786967f6ef020e2929bc09810dd1799a282d52e1d531721e134f673ce53": {
     "name": "浙江卫视",
@@ -445,8 +618,14 @@
     "url": "http://101.35.240.114:88/live.php?id=浙江卫视4K",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "6d162856ac868fb39781b4ee0b4badfbbcccbe206b0252f2c3914b89dc55907d": {
     "name": "深圳卫视",
@@ -454,8 +633,14 @@
     "url": "http://38.75.136.137:98/gslb/dsdqpub/szwshd.m3u8?auth=testpub",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:51+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4c49281d4a97b4e62dfea3fe34982cbc82f34a78cdc4c6b9a130383953f54cc1": {
     "name": "湖南卫视",
@@ -463,8 +648,16 @@
     "url": "http://101.35.240.114:88/live.php?id=湖南卫视",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:40:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:46+00:00",
+    "published": false,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "replacedByUserAt": "2026-10-02T16:19:39+00:00",
+    "replacedBy": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
   },
   "80476c800f712380961c213f85ac8b19ed4e0b80fa342c428306afad0d32c643": {
     "name": "湖南卫视",
@@ -472,7 +665,10 @@
     "url": "http://74.91.26.218:82/live/hnwshd.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-11T15:31:42+00:00"
+    "checkedAt": "2026-09-11T15:31:42+00:00",
+    "published": false,
+    "replacedByUserAt": "2026-10-02T16:19:39+00:00",
+    "replacedBy": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8"
   },
   "048aa9a63de8469468486d7a20101258a12dd21093494de6283e707786d0b31e": {
     "name": "西藏卫视",
@@ -480,8 +676,14 @@
     "url": "http://101.35.240.114:88/live.php?id=西藏卫视",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:33+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:43+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5d71458cf18bcefb23af9adb7ce670aa8def99f2d49634d05b660fcc343af73a": {
     "name": "西藏卫视",
@@ -497,17 +699,34 @@
     "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gzwshd",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:39+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:49+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d114940ee282de795d54024817c9c6dbf381cdbb860afea9955f4cf5594f1f03": {
     "name": "辽宁卫视",
     "group": "央视·卫视",
     "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:42:34+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:56:56+00:00",
+    "published": true,
+    "reason": "SocketTimeoutError: Timeout on reading data from socket",
+    "reviewPassStatuses": [
+      "GOOD",
+      "BAD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E08",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "ca74e68f67c4f61a9376e68c54a76855a3dd2cff2f719558b94720ca292080e8": {
     "name": "陕西卫视",
@@ -526,8 +745,14 @@
     "url": "https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:54:57+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "446ceaeb0bc613081cb7251cdb05bcaba4adadff4170e6824ea11d5e7201953a": {
     "name": "青海卫视",
@@ -543,8 +768,14 @@
     "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hljwshd",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "b004d4305dac02b724fb0ad064923f3b5f8b0ff03cd69d8c9a216ac43f8b08ce": {
     "name": "乐至综合",
@@ -552,8 +783,14 @@
     "url": "http://175.155.106.72:89/live1/live1.m3u8?zsicd",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:08+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:12+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d2f3f460b0d4a8bfea220c58cd5072f9ef7a84352ca45d0039dd7b64537159e8": {
     "name": "云霄综合",
@@ -561,8 +798,14 @@
     "url": "https://live.zzyxxw.com:2443/live/xwzh.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "6a117e4c4a02025e673b6f8e8ab7d509f97a51d7cb3173194ef3716d499d33a9": {
     "name": "余姚综合",
@@ -570,8 +813,14 @@
     "url": "https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:37+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:46+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5263d99fa885ed8b9677286621687a2051e709c8c152d4b26f1cadd4746b5128": {
     "name": "兴隆综合",
@@ -579,8 +828,14 @@
     "url": "https://jwcdnqx.hebyun.com.cn/live/xlzh/1500k/tzwj_video.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:38+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:45+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "777b6065994e601441cb1badef618ee8efeb58ca7d5bc6b2915a30c2f1f6bc53": {
     "name": "南国都市",
@@ -588,8 +843,14 @@
     "url": "http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:08+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:13+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "18ed582c62640df42528d7530e2a524aa3c6153b5c961b254170b0e7b6e8e718": {
     "name": "名山综合",
@@ -597,8 +858,14 @@
     "url": "https://m3u8channel-bx.yunxya.com/nmip-media/channellive/channel104666/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:08+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:14+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "00ab17e7adac16d405b5e1a1d0d9b744a539265ce2948a119f318dee817d6b69": {
     "name": "四川科教",
@@ -606,8 +873,14 @@
     "url": "http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:07+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:13+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f8a8ff5f4138d87b5e5e166ddfbdde9d57007429612212600eeea911fe453097": {
     "name": "天祝综合",
@@ -615,8 +888,14 @@
     "url": "https://play.kankanlive.com/live/1656487214793905.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:09+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:11+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "47a9be9ca60f974bf4439bd8db03dcb983899f4ac43ea5b953a8bc15dc82934b": {
     "name": "广元综合",
@@ -624,8 +903,14 @@
     "url": "https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:09+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:15+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "017a5373c24c88bc0ef7b9d1a04a456f5a55d3a6fe2aeedaea5106e2a5b0d1e3": {
     "name": "广德生活",
@@ -633,8 +918,14 @@
     "url": "https://live.gdtv.ah.cn/live/newsTV.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "082419e3293d6d39cb36593739efcf4293b197fa4f0c080b05c48907684315fd": {
     "name": "广西国际",
@@ -642,8 +933,14 @@
     "url": "https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "91f122df2d8a6182314e8c89d1fc9098fe277235488915b5bd9307e87672fe26": {
     "name": "怀仁综合",
@@ -651,8 +948,14 @@
     "url": "https://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc-1.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:07+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:13+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "0cdbd836d8a18d0ce51ae982a56baa0216573b6f5f9f472801ba672ff1296936": {
     "name": "旺苍新闻综合",
@@ -660,8 +963,14 @@
     "url": "http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:07+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:09+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "eddba9269fe392b0d6fbf06ea20435aa9ce7112e593e5af37a8626a323210d0c": {
     "name": "沐川综合",
@@ -669,8 +978,14 @@
     "url": "rtmp://tv.mcrm.org.cn:1935/channellive/tv01",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:16+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:23+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "0f65c7cb074dc1bb366ab685a5c00b45ce61ed58821da69d407f69c717181514": {
     "name": "浙江新闻",
@@ -678,8 +993,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:52+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "33f8cc3767ba5d55305b17f8665bd09219d864cf293d95142c08e55b6fecf601": {
     "name": "浙江民生",
@@ -687,8 +1008,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:52+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "42c4b31bf48c0c786e5abc50c59871e7c0140f1c3e8fee1428461eed797b6a7b": {
     "name": "浙江经济",
@@ -696,8 +1023,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:32+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:59+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "43f58e18d7b706f4247c3a40ccabb1580ca25953fca93f231b82bedc8fb6d888": {
     "name": "浙江钱江",
@@ -705,8 +1038,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:32+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:56+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "1daa3a0dd7933c85dfcace473d7951ccef800cfcd643c219b2701467c3f6ae3f": {
     "name": "清河经济综艺",
@@ -714,8 +1053,14 @@
     "url": "https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:40+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:46+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c178c40a93122b88191af688f2cf4118c63e07707adb39cd760d429b101d6e2e": {
     "name": "石棉综合",
@@ -723,8 +1068,14 @@
     "url": "rtmp://tv.yunxya.com:1937/channellive/shimian",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:17+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:26+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "8c8ad1064c504e1c0b8dc08afee6b33a1ae079238be8f5e49a991f49d907a71a": {
     "name": "苏州新闻综合",
@@ -732,8 +1083,14 @@
     "url": "https://live-auth.51kandianshi.com/szgd/csztv1.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:09+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "36f630ab63d9e258bd53d30f6698229be7f04e330f90cef4716e899c4d300370": {
     "name": "苏州社会经济",
@@ -741,8 +1098,14 @@
     "url": "https://live-auth.51kandianshi.com/szgd/csztv2.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a5d71f4d9fee2e52cd38d9411e091e904a35a3143cf8e7dbee1e3dbd1e646548": {
     "name": "荥经综合",
@@ -750,17 +1113,31 @@
     "url": "https://m3u8channel-yj.yunxya.com/nmip-media/channellive/channel101140/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:07+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:13+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7a1b012a09f9c9fb7f3871b89e6e84b01b243626f689a8fba65d521f8fa8b072": {
     "name": "邯郸公共频道",
     "group": "地方频道",
     "url": "https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:55:07+00:00",
+    "published": false,
+    "reason": "HTTP 404",
+    "reviewPassStatuses": [
+      "BAD",
+      "BAD",
+      "BAD"
+    ],
+    "removedByUserAt": "2026-10-02T16:19:39+00:00",
+    "removalId": "E02"
   },
   "9db617580abde2f47c64b0560d4d270476379fe215226e29e3a6b4af8cce447b": {
     "name": "邯郸科技教育",
@@ -768,8 +1145,14 @@
     "url": "https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:07+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:11+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "25fe746a07826853631d1875363a629c47a2255da40d9e66b6d241d41a295701": {
     "name": "雅安新闻综合",
@@ -777,17 +1160,34 @@
     "url": "https://play.yunxya.com/channellive/xinwen.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:09+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2197f89b636c9baea9b7ae77870f5a4693ee5f76e72a93b83b79a0802780e6a5": {
     "name": "青川综合",
     "group": "地方频道",
     "url": "http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:41:07+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:55:34+00:00",
+    "published": true,
+    "reason": "TimeoutError: ",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E09",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "a5257cd1a65009a141802c369e1eaa0dfaded253c23c3dbddb2da64bdf1c8630": {
     "name": "青田电视台",
@@ -795,8 +1195,14 @@
     "url": "http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "74cab817994f036563d3fadcc01456c7e84685d876e8f9c1896aac681ddf13b6": {
     "name": "龙泉新闻综合",
@@ -804,8 +1210,14 @@
     "url": "http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "14d96fb8477695cf2a3fe630b632644609105466226b8315277a059a2843f8d8": {
     "name": "TVBS新闻台",
@@ -813,8 +1225,14 @@
     "url": "http://61.221.215.25:8800/hls/9/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:16+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:20+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c294e77d52e52b05218a55670e2b5a140b153516de2e7739cd54a3cac06a4d1b": {
     "name": "三立戏剧",
@@ -822,8 +1240,14 @@
     "url": "http://61.221.215.25:8800/hls/41/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:43+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:51+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "adfb4f61d58c06af3c029e946d7a1c6828a83cc03f258fa2a40a1075e68f6a59": {
     "name": "凤凰资讯",
@@ -853,8 +1277,14 @@
     "url": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:18+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:17+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2d39486c48b859e8778cb028ce8f1d916e74a1d4d0e7fbc4c0e329619e8a1093": {
     "name": "民视",
@@ -884,8 +1314,19 @@
     "url": "http://61.221.215.25:8800/hls/48/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:18+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:24+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "BAD",
+      "GOOD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E10",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "7d2acd85d7643ebff73b992802167d3496786c68f34cfca5bc8c72eb173e6d5c": {
     "name": "美亚C+",
@@ -904,8 +1345,14 @@
     "url": "https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:22+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:27+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "8e786a3e7ae0eaf263cdf96fbcfcec21380e2139f02e88f1c477df699717c7a6": {
     "name": "非凡新闻",
@@ -913,8 +1360,19 @@
     "url": "rtmp://f13h.mine.nu/sat/tv581",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:53+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:38+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "SLOW",
+      "SLOW",
+      "GOOD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E11",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "008e31ccc53d64ba66ec446788979ab5cd38fc60c73c2c0e1af25fdafa5ed33b": {
     "name": "GolfPass",
@@ -922,8 +1380,14 @@
     "url": "https://d2icntm6fhxrry.cloudfront.net/master.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:23+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:32+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "575677ee6808df8916a9740562294ffe5750b6eb07f7df42e1dc31b6136da00e": {
     "name": "PGA Tour",
@@ -931,8 +1395,14 @@
     "url": "https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:22+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:30+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "135d8b469fc92768343f2cad4826f5f8a393e9ae618f25f66b760eacf5aeb208": {
     "name": "FIFA+ Portuguese (720p)",
@@ -951,8 +1421,14 @@
     "url": "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:25+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:36+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2af424650b65678b7a6968610f8c7096d63866a2b46655d6de5515b10126bc26": {
     "name": "Real Madrid TV (726p)",
@@ -971,8 +1447,14 @@
     "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:30+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:38+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "124075136d24682bfde18b5a2f13181b665f60b929546b99f90d12a99a95b4e2": {
     "name": "CCTV5",
@@ -1001,8 +1483,14 @@
     "url": "https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:34+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:39+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "65f81054a3ed79dad605f62407cc50cb1ffd63f66df181a940dda3d553122716": {
     "name": "Cricket Gold (1080p)",
@@ -1021,8 +1509,14 @@
     "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:36+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:41+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a0fa803def30a473bc183f365c62760084ffc56733187633a69c99f4b392700b": {
     "name": "FOX Sports (1080p)",
@@ -1030,8 +1524,14 @@
     "url": "https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:29+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:38+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2202d0612ef684c95a6d58585014ffb10de50708b9212063425bc6595b2c95a3": {
     "name": "fubo Sports Network (1080p)",
@@ -1050,8 +1550,14 @@
     "url": "https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:35+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:39+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "6785b4ef162889aa71634fc93a61e14a54d2e9a9112be15dd923583d4603a08b": {
     "name": "Red Bull TV (1080p)",
@@ -1059,8 +1565,14 @@
     "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:33+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:41+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c9876bc77dbf09f820d20a054302c14f648df2b78d4e1610d4f13a8ab43ffe89": {
     "name": "Roku Sports Channel (1080p)",
@@ -1088,10 +1600,21 @@
     "name": "Sportitalia (1080p)",
     "group": "综合体育",
     "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:41:36+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:55:53+00:00",
+    "published": true,
+    "reason": "SocketTimeoutError: Timeout on reading data from socket",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E12",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "26fb66226922abec7774492f8dd8b9c505f1d0e72e7cf7eab80d4732071d430a": {
     "name": "Sports First (1080p)",
@@ -1121,8 +1644,14 @@
     "url": "https://d3181anftsyl2u.cloudfront.net/v1/aenetworks_alone_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:54+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "869b589fdc173fd71da8ae0b7afbe6ca42640c05409b38dce0a561d80fef7a51": {
     "name": "Asharq Discovery (1080p)",
@@ -1141,8 +1670,14 @@
     "url": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:46+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:55+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "263fb434c058718e494d963c884e9dbece9248c4df9a8da1f9d3e0402365da18": {
     "name": "BBC Earth (1080p)",
@@ -1150,8 +1685,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:40+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:45+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2ab0e158dec289e1f594d6759e49d227299ec1db74684021ae4887c70dedd971": {
     "name": "BBC Earth (1080p)",
@@ -1178,8 +1719,14 @@
     "url": "http://219.147.245.238:25480/newlive/live/hls/10/live.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:51+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:44+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "6c20bb5a41694e6ff25b91f483974d644f76cbd81c5f2ba499354d8953582124": {
     "name": "CCTV9",
@@ -1195,8 +1742,14 @@
     "url": "https://hlspackager.akamaized.net/live/DB/CGTN_DOCUMENTARY/HLS/CGTN_DOCUMENTARY.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:41+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:48+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "680bdd1db00b0406b81182a35e4fa609d0fe6eb5d3bbf32cdb4d2a87031f1b43": {
     "name": "CGTN Documentary (1080p)",
@@ -1212,8 +1765,14 @@
     "url": "https://0472.org/hls/cgtnd.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:37+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:45+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "6af89f546acbfa561993dcaa5c8df34bbe0abca1a619f88af620c8148cb847cd": {
     "name": "CGTN纪录",
@@ -1229,8 +1788,14 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:38+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:43+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "06f7e514bc0556cca0df015a6c093d5ab0ecd0994da54ba7243d7b5e8d1897b0": {
     "name": "Discovery Turbo（意大利）",
@@ -1238,8 +1803,14 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:38+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:44+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5443409a9abf45f77805abb429a5edf3113d7bfbe145dba7e2c58ddca5f9604b": {
     "name": "DMAX（意大利）",
@@ -1247,8 +1818,14 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:45+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:49+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ab10e7d863aef1e61e7fd45f7f9344fc28b04a1ecf7a2a760e14960bc7d87d9d": {
     "name": "Docu Vision (1080p)",
@@ -1299,8 +1876,14 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:47+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "dc9fcaa7d12c4cdbf708372b5525144b35bc4459ffbf082a3c9dc74a7ffb8034": {
     "name": "History & Warfare Now (1080p)",
@@ -1308,8 +1891,14 @@
     "url": "https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:45+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:50+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c0e7e8fff1dbcdbeab632718e128fa729215877fabcc761550ae8834c0c03741": {
     "name": "History and Warfare Now (1080p)",
@@ -1325,8 +1914,14 @@
     "url": "https://lds-timeline-rakuten.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:45+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:48+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a8eecac80b7e4e28f1e13f31a8603b593ab112a23f71485c828ff08ed42e1a6c": {
     "name": "History Hit (720p)",
@@ -1350,8 +1945,14 @@
     "url": "https://amg00841-amg00841c7-rakuten-uk-2820.playouts.now.amagi.tv/playlist/amg00841-aeemeafast-historyhuntersrakuten-rakutenuk/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:43+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:51+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2639932d23edab89d226694b5d1633fa5c832598e879380408990231a7cde8bb": {
     "name": "INWILD (1080p)",
@@ -1359,8 +1960,14 @@
     "url": "https://amg00861-amg00861c7-stirr-us-8227.playouts.now.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:50+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ff83c075288a3f570914ec915643f933a1032f2e38211aacf01673decc92419d": {
     "name": "INWILD (1080p)",
@@ -1384,8 +1991,14 @@
     "url": "https://amg00861-amg00861c9-stirr-us-8243.playouts.now.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:52+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:57+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2701fc5a0bad1ac8e95a548eb94e61cb0e647c6a3aa5a455f6c98f4c381da47a": {
     "name": "Love Nature (1080p)",
@@ -1393,8 +2006,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:41+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "72dd82e7095276f3217c62a969a5079c1a2979fe14b28800f137c133b1c89de9": {
     "name": "Mysteries Xplored (720p)",
@@ -1402,8 +2021,14 @@
     "url": "https://dwqz6akge0ila.cloudfront.net/v1/aenetworks_mysteriesxplored_1/samsungheadend_us/latest/main/hls/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:53+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:59+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "cf433222e08cdcdbeb44b3115493461000ca9a9c519e014bac25932f5079b136": {
     "name": "Nature Time France (1080p)",
@@ -1484,8 +2109,14 @@
     "url": "https://lds-realwild-rakuten.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:50+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:58+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f60d6cf2983595324c592743199b326cf1ebb7cbb4a4033c5725755d5705673c": {
     "name": "Real Wild (1080p)",
@@ -1501,8 +2132,14 @@
     "url": "https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:48+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:56+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "71f925b46e9906b6bb998c49b80ccd0167a10d33563df1889ed60b35eef82a31": {
     "name": "RT Documentary（英语纪录）",
@@ -1510,8 +2147,14 @@
     "url": "https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:51+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:59+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "93482249eee201ea6613942009ef9b560c5ae23ef4c25a13dbbd471e8aab0554": {
     "name": "Space Series (1080p)",
@@ -1538,8 +2181,14 @@
     "url": "https://dhiy0zcig7ty1.cloudfront.net/scheduler/scheduleMaster/491.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:46+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:50+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "84914808b73a0ce81a189f5ac9f77db01cc9e5210d7bbcb53b573c64f1b8c1c4": {
     "name": "Wild Planet (1080p)",
@@ -1547,8 +2196,14 @@
     "url": "https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:46+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "401ae4565c87fdbdaf14541b0f8e4063ad37576db0ec6a17470d0d4e2608f30f": {
     "name": "Wild TV (1080p)",
@@ -1556,8 +2211,14 @@
     "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:47+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d223354d3ab277e2b544d362f6b2a0df9a87e65242e7a48410b536d9eded55dd": {
     "name": "WildEarth (1080p)",
@@ -1565,8 +2226,14 @@
     "url": "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:41+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:48+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "129c68975efd5f9eb282d7978195e14371b8fa04d4724920f9f20f8c45251fec": {
     "name": "WildEarth (1080p)",
@@ -1601,8 +2268,14 @@
     "url": "https://lds-wonder-plex.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:49+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:56+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "08dfb5ac14f2731e2a254bb92f15cdb2e2b09fbbc2ffa542e399bf407ab79174": {
     "name": "Xtreme Outdoor Presented by HISTORY (720p)",
@@ -1621,8 +2294,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "392a6f65f0641eeffb22bf77350bef2a9b0c7b2bed53d8fe366e02988a491ecd": {
     "name": "新纪实",
@@ -1630,8 +2309,14 @@
     "url": "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:41+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:48+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5c4ab73e3b3abb98e3727346659462d569a5c172b06e9105f16739964efdec7f": {
     "name": "24 Hour Free Movies (720p)",
@@ -1639,8 +2324,14 @@
     "url": "https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:09+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:18+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "e64707c5a7e2f0255ace879f8525b99de9cc62fb9c0f3217043c71df491441ef": {
     "name": "Action Hollywood Movies (1080p)",
@@ -1648,8 +2339,14 @@
     "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:58+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:05+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d8a6257770e72eaafac9ee5f85540f14e8da7d1a7b78744cc81924b747cb6ed2": {
     "name": "Action Hollywood Movies (1080p)",
@@ -1665,8 +2362,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2ac201c66eb44fd151371285cc276bc33367ba072ab0cc32af2e810d449e6b98": {
     "name": "Alien Nation by DUST (1080p)",
@@ -1682,17 +2385,31 @@
     "url": "https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:11+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ed244b4a408c0029e256d9618b3e528dfa682782c3959d3d63ba7c04a810c6af": {
     "name": "Asianet Movies HD (720p)",
     "group": "电影",
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:42:08+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:56:16+00:00",
+    "published": false,
+    "reason": "variant HTTP 404",
+    "reviewPassStatuses": [
+      "BAD",
+      "BAD",
+      "BAD"
+    ],
+    "removedByUserAt": "2026-10-02T16:19:39+00:00",
+    "removalId": "E03"
   },
   "162763b13ebaf79e81554193977a86b2b9f59f67ff1b711950e8d6cebc2bacf6": {
     "name": "Best Thriller TV (1080p)",
@@ -1711,8 +2428,14 @@
     "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:10+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:21+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4f18242a2648bb977ca53967f84056ceb95870482a58d85fd7bf124784280a07": {
     "name": "CCTV6",
@@ -1731,8 +2454,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/e1921b21-6cd6-4b21-bb46-832cbb74485c/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:02+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2230f0d997329d7e32cec85632a5795e3fe196e452e795a12bf804035b7ca7ea": {
     "name": "Cowboy Movie Channel (1080p)",
@@ -1773,8 +2502,14 @@
     "url": "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:04+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:17+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "08e41154009d86f44c6eeeaf5d67756eb5b6d7f77754d2ae289a7cd801146477": {
     "name": "FilmGold Germany (1080p)",
@@ -1782,8 +2517,14 @@
     "url": "https://mainstreamfilmgold-rakuten.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:08+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:18+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "8368fc03d0f9d3c8984944e5b59adcefca49d56ade7263e0d941fe376137bdb4": {
     "name": "Genie K Movie (1080p)",
@@ -1802,8 +2543,14 @@
     "url": "https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7e88e27f76156540133657864291030baf54fd156b758cf1b12f7a78bb69ccc8": {
     "name": "Great! Movies (1080p)",
@@ -1811,8 +2558,14 @@
     "url": "https://amg01753-narrativeentert-greatmovies-samsunguk-7z6eh.amagi.tv/playlist/amg01753-narrativeentert-greatmovies-samsunguk/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:55+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:04+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "585e567ff82a6f75d03549e358d05d3e5cb0bf599c4c2c1cb56871c9a96f8800": {
     "name": "Hi-YAH! (1080p)",
@@ -1820,8 +2573,14 @@
     "url": "https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:04+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "0988380822c4d139b27723ea16ac0a0237b9c6dce5dbcd6962d0b07f43ac8c56": {
     "name": "Horror by ALTER (1080p)",
@@ -1829,8 +2588,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/acac036c-181a-413a-a102-cd294c83320d/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:46+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c3b2cfde543b1561a92eb2ca47293ba8a05e04ad3cfc290da72f94d67417bd91": {
     "name": "Horror by ALTER (1080p)",
@@ -1868,8 +2633,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/55607a73-d5bd-4a09-979e-5933354469ee/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:49+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:59+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7745369314890ad18966554250e6739b92f3bdf2f232a9dc87bf97cffe813b18": {
     "name": "Movies Action (1080p)",
@@ -1877,8 +2648,14 @@
     "url": "https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:06+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "8fd4a7789a815e3f4262cd0684ffb0bc538596a34dadf67ff34a7a56c6c96aac": {
     "name": "MovieSphere (1080p)",
@@ -1886,8 +2663,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:04+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ed983424ae51ec37ad29f7af23c9a9b0f0fc3cd34c4b8781939e10d05b2ee00a": {
     "name": "MovieSphere AU (1080p)",
@@ -1959,8 +2742,14 @@
     "url": "https://mytimemoviefrance-rakuten.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:04+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:14+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "52a478dc67d3b6a0ddcb28fd10fbbeb06457b13b77695f82d78035ef7290a66e": {
     "name": "NEW KMOVIES (1080p)",
@@ -1968,8 +2757,14 @@
     "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=GB1700007PK&channel_id=newid_343&tp=samsung_tvplus",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:11+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d8d60321bdb777eac29fe22b2f373b7ef911d823311b873cb3bec325c04c32de": {
     "name": "NEW KMOVIES (1080p)",
@@ -1996,8 +2791,14 @@
     "url": "https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:12+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:23+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5519a01c3596dcef91c0b1c284129a35404e56b0bafacc31b0c8b88419c9f0bf": {
     "name": "Sony One Hits Action (1080p)",
@@ -2005,8 +2806,19 @@
     "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:14+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "SLOW",
+      "GOOD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E14",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "fcee2fb10b991041eaa42dde8387042b7c8348fece50d89a1de24c161405fd75": {
     "name": "Star Maa Movies HD (720p)",
@@ -2014,8 +2826,14 @@
     "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:09+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:18+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "34ed8a5463529338c190891de8811f615a03235c41fc23e6d71830abebd5936b": {
     "name": "Stingray Epoca Dorada Del Cine Mexicano (1080p)",
@@ -2023,8 +2841,14 @@
     "url": "https://lotus.stingray.com/manifest/ose-219ads-montreal/samsungtvplus/master.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:15+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7b4dddfae0e04f5398a8c881df77bcf332a111d8b915f100d9515928f4e0ad1f": {
     "name": "Surf Cinema (1080p)",
@@ -2032,8 +2856,14 @@
     "url": "https://amg13231-actve-amg13231c4-samsung-au-2990.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-samsungau/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:17+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c5e011421b43c852569df2017b40b2ffa3231f90ecc87b4a815a1ed284d491d4": {
     "name": "The Movie Club (1080p)",
@@ -2041,8 +2871,14 @@
     "url": "https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:58+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ab33fa9d6a62a20956dc5762419818b7c1b9d441d85bc3606f55d2d2fb42eee9": {
     "name": "The Movie Club +2 (1080p)",
@@ -2050,8 +2886,14 @@
     "url": "https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:11+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d219e8f1225b00421af2a8b29683c938047c307fefbcaa30efbbd388a87ab42a": {
     "name": "Todo Cine (1080p)",
@@ -2059,8 +2901,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:02+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "db00709f2da742e0e2d9491eb8ad095457f95b3aa5c332f2b93e9c66cef08721": {
     "name": "Western Bound (1080p)",
@@ -2068,8 +2916,14 @@
     "url": "https://ime-cw-stirr.otteravision.com/ime/cw/cw.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:12+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "734b49772da20224502d531660e0bc96cc7ed388dbd2feb523938528b960f903": {
     "name": "Zylo Cine Western (1080p)",
@@ -2077,8 +2931,14 @@
     "url": "https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:09+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "bf64b0d5d9e573acc519b14fed12cbb7096d1e33f7c1c6af9fb10996e1458678": {
     "name": "浙江教科",
@@ -2086,8 +2946,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "8c87792e829030f8c69e381d0d0044741260dfd16ddbaa0fb0f1ce4d1e22d4e4": {
     "name": "Acorn TV Mysteries (720p)",
@@ -2106,8 +2972,14 @@
     "url": "https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:12+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:22+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d0b06e7010dc403f12b484ff0f074de03eff66a902c12432eb6548c456e0976a": {
     "name": "Best Drama TV (1080p)",
@@ -2126,8 +2998,14 @@
     "url": "https://doumbtmvnsp0z.cloudfront.net/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:17+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:25+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7d5a3d750b461e98ce91667a629a4f590f888e94837899cd180f2a75a4054e02": {
     "name": "BritBox Mysteries (1080p)",
@@ -2135,26 +3013,48 @@
     "url": "https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:01+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "8c14e56c58e4ae3cf6ccad0ce188f84f416e0f684552d90e2b07732a0efec081": {
     "name": "FilmRise Binge Watch France (720p)",
     "group": "电视剧·综艺",
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:42:53+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:56:55+00:00",
+    "published": false,
+    "reason": "actual resolution 432p is below required 480p",
+    "reviewPassStatuses": [
+      "BAD",
+      "BAD",
+      "BAD"
+    ],
+    "removedByUserAt": "2026-10-02T16:19:39+00:00",
+    "removalId": "E05"
   },
   "e5e59a98cbda65917d1a807e767431dbf53a947d891c29d7cb727a05fe0b911e": {
     "name": "FilmRise Séries France (720p)",
     "group": "电视剧·综艺",
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:42:18+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:56:28+00:00",
+    "published": false,
+    "reason": "actual resolution 432p is below required 480p",
+    "reviewPassStatuses": [
+      "BAD",
+      "BAD",
+      "BAD"
+    ],
+    "removedByUserAt": "2026-10-02T16:19:39+00:00",
+    "removalId": "E04"
   },
   "a092c48914bd3d42ce64db2516133181cb2873583add5f6741a29797b77edfc0": {
     "name": "FilmRise Z Nation France (720p)",
@@ -2162,8 +3062,14 @@
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883103",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:17+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:28+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7f34eb39825a8cae75f81867ffc5b7e6a0b1187b5ff28c0d3e2290cf8036e718": {
     "name": "Generation Sitcoms (1080p)",
@@ -2171,8 +3077,14 @@
     "url": "https://production-fastbpk.content.okast.tv/fa2e8c4385712f9aa35c5b79a2b4ac2d/channels/eec463a6-4364-473b-8d89-555acc5b8fb2/e36e4304-73ff-4f9f-8d38-e748576a1f51/media_.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:19+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:28+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a4e0baac98b51aff578d3222d9dfc74a94d64fc6799e5d6ff0fb45e2e1895ce9": {
     "name": "Genie K Drama (1080p)",
@@ -2191,8 +3103,14 @@
     "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "1d6af89a6ab2fa710c3ae61ee4f20029ba5561fce2fe7e88356b58f8c5df119c": {
     "name": "K Drama by CJ ENM (1080p)",
@@ -2211,8 +3129,14 @@
     "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US1700017NM&channel_id=newid_271&tp=samsung_tvplus",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:25+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4333fcdeefc286ee46021112ad3c9baa29e1b164803504f85a16a50144bbb5fd": {
     "name": "MBC Drama (1080p)",
@@ -2220,8 +3144,14 @@
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:14+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:26+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7dfc827807a326a2bfe9f1e9af5add3a4992ae00966f704bdfe1e1c85040c28f": {
     "name": "MBC Drama (1080p)",
@@ -2237,8 +3167,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/d76934f9-bea8-4cc2-a812-c2e8a9c5d40a/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:02+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:05+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "87a4b133bd49667438041d7a3c246574b3c1a367739f58dbb3d7a238b8e2cd7e": {
     "name": "Mundo Series (1080p)",
@@ -2278,8 +3214,14 @@
     "url": "https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:13+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:25+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "62cc24303e8c1b46fbf15921f6af019394c6b7547a15312edee4033d8ab48e6a": {
     "name": "Mystery TV (1080p)",
@@ -2295,8 +3237,14 @@
     "url": "https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:06+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2fd891c37ba774c8e4b9da3709a51cbe1e2d7d0213c42d08d5eaeaa16a933289": {
     "name": "三国演义",
@@ -2315,8 +3263,14 @@
     "url": "https://live.ottiptv.cc/huya/26355866",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:06+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:08+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f156c7b2451b9b2f6b05bf527078277c2481f5f6cb37988a69d4325b841462f0": {
     "name": "乌龙闯情关",
@@ -2324,8 +3278,14 @@
     "url": "https://live.ottiptv.cc/huya/26355767",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:22+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:18+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f138634119a39c62824c2fc731e00fb64a33f63e64a239bf94de7dc9580286ce": {
     "name": "仙剑奇侠传",
@@ -2333,8 +3293,14 @@
     "url": "https://live.ottiptv.cc/yy/1382749903",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:55+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d2253be54032bc2413fee39ea1aa7f266b7cc17e2043c886acc6ea3218f8ad97": {
     "name": "伪装者",
@@ -2353,8 +3319,14 @@
     "url": "https://live.ottiptv.cc/huya/11342403",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:25+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:20+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5287bf05574ff8984baed0953abedd34782bd5f34c6627763524cc1809a58db3": {
     "name": "大秦赋",
@@ -2362,8 +3334,14 @@
     "url": "https://live.ottiptv.cc/huya/23903130",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:07+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:09+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "3c8bd5e4c4b94b951d8ac818d1f9660a4bace552af66ea599b127997fe2b8661": {
     "name": "如懿传",
@@ -2371,17 +3349,34 @@
     "url": "https://live.ottiptv.cc/huya/29465868",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:00+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "65680578381214152b4d7a1259470000008257cf6dc0c88b94d6d0d1ac90fa08": {
     "name": "梦中的那片海",
     "group": "电视剧·综艺",
     "url": "https://live.ottiptv.cc/huya/26355765",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:43:49+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:57:24+00:00",
+    "published": true,
+    "reason": "HTTP 403",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E15",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "e26bce588700c9f36159b599ce608a106adc4bc9d4f75fad9f2e47acbdd70076": {
     "name": "欢乐颂",
@@ -2389,8 +3384,14 @@
     "url": "https://live.ottiptv.cc/yy/1382735624",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:05+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:07+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "9e0b0d7805e1bc71b5c1c2362f6e136692123108639a97751de0dc175ce58e0e": {
     "name": "永夜星河",
@@ -2398,8 +3399,14 @@
     "url": "https://live.ottiptv.cc/huya/23734169",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:29+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:23+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ddb53e101969bb1305c09f3b26207933afc05d231187f0aff732cc69a2756ad5": {
     "name": "流水迢迢",
@@ -2418,8 +3425,14 @@
     "url": "https://live.ottiptv.cc/yy/1354926650",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:14+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:22+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "35c7aebae8ef5e2e3a776bececb9228fdee4a1ffd07e3d1a2f86b6c8d1aa3076": {
     "name": "玫瑰的故事",
@@ -2427,17 +3440,34 @@
     "url": "https://live.ottiptv.cc/huya/23865142",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:10+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:12+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "2d6f24f9c0f477917fcdf1e0bc17b3feb8a528addda18a4000ebc6f4d255cb55": {
     "name": "谈判专家",
     "group": "电视剧·综艺",
     "url": "https://live.ottiptv.cc/yy/1382735560",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:44:04+00:00",
-    "published": true
+    "status": "SLOW",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:57:33+00:00",
+    "published": true,
+    "reason": "Initial stream fetch exceeded 8 seconds",
+    "reviewPassStatuses": [
+      "GOOD",
+      "SLOW",
+      "SLOW"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E16",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "27249206fb9396bb001483257e26db6b3d5fafd265bfc6aeae92f7bb25751575": {
     "name": "铁齿铜牙纪晓岚",
@@ -2445,8 +3475,14 @@
     "url": "https://live.ottiptv.cc/huya/11342396",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:16+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:13+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "e64e700b3668d58ceac7414342293ff63aef4fabda6b78da10f49b7881c7a05b": {
     "name": "陈情令",
@@ -2454,17 +3490,34 @@
     "url": "https://live.ottiptv.cc/huya/29465862",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:00+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4d7dd5ffc31b30a32d76228f30f244b5283eb950df866a98e390391ebd6ed931": {
     "name": "雪豹",
     "group": "电视剧·综艺",
     "url": "https://live.ottiptv.cc/huya/29580970",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:44:07+00:00",
-    "published": true
+    "status": "BAD",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:57:34+00:00",
+    "published": true,
+    "reason": "HTTP 403",
+    "reviewPassStatuses": [
+      "GOOD",
+      "BAD",
+      "BAD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E17",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "ffe7773b4e47fbd362135dc01abace93823c4460e2355210081bd839574cd8d0": {
     "name": "鬼吹灯之龙岭迷窟",
@@ -2472,8 +3525,14 @@
     "url": "https://live.ottiptv.cc/huya/29465863",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:37+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:24+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d755b53891225f2a963a6dc0e27251d79b26387d0e8f4962c52c131093502875": {
     "name": "BeJoy.kids (1080p)",
@@ -2481,8 +3540,14 @@
     "url": "https://stream.paroledivita.org/bejoy.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:21+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:34+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "b24647c0f7c2b8f09681a5078da921431613c89c6403ac1ea3009bd3acc07f84": {
     "name": "Cartoon Classics (1080p)",
@@ -2501,8 +3566,14 @@
     "url": "https://event.pull.hebtv.com/jishi/cp2.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:35+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:45+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c9b4ac7fbaffe7f4be8a2c0d453628872a1a97714028957ab293f29c8182b451": {
     "name": "It’s Anime (1080p)",
@@ -2521,8 +3592,14 @@
     "url": "https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:21+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:33+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "6601ae7185d8491c145fcdf015c7064a89dd8f74f54f9b591bdba1da498bdb42": {
     "name": "Mr. Bean Anime Italy (1080p)",
@@ -2530,8 +3607,14 @@
     "url": "https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:22+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:33+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f5eb160a2804895e7b9eb9c66a6fd7c525ec56125e134a52af599101f03dc8f6": {
     "name": "Nickelodeon CIS (1080p)",
@@ -2539,8 +3622,14 @@
     "url": "https://stream8.cinerama.uz/1500/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:19+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:31+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "44eb3d242b5bac7436e5225f3bc182bf4d30d797bc5962fb5f15b26c0ba9357b": {
     "name": "Nickelodeon East HD (720p)",
@@ -2548,8 +3637,14 @@
     "url": "https://directv-iptv-player.vercel.app/api/stream?url=http%3A%2F%2F198.58.104.90%3A8989%2Fnickelodeon%2Findex.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:23+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:34+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "f931de7e7ba95baae40ce73e9a4a8b6dcb13e7a3f6e86242083ebf8719a231ea": {
     "name": "PBS Kids Mountain (1080p)",
@@ -2557,8 +3652,14 @@
     "url": "https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:19+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:30+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "38a70c9d6af52b9917bde0b4d1e4a387bb7051d62d0c9b26fcb05b66696875b2": {
     "name": "PBS Kids Pacific (1080p)",
@@ -2585,8 +3686,14 @@
     "url": "https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:23+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:32+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "ae9c5118475ac4ef7b0b04e0ef97dc5ed46ae865c96e4c9b7e272cf2cf36d20c": {
     "name": "七龙珠",
@@ -2594,8 +3701,14 @@
     "url": "https://live.ottiptv.cc/huya/11601966",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:44:30+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:41+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "1b3e3ba39318ce266cdf2edd146386802011ad7463025bf4b5befa7dcbb87ff3": {
     "name": "名侦探柯南",
@@ -2614,8 +3727,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c35ffbc11a2cd15e3bb9c65f7637d75fdcfefd43d240dc64a1020f76c48b29be": {
     "name": "精灵宝可梦",
@@ -2634,8 +3753,14 @@
     "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:27+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:38+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "a49433ec5f847b893ac1030a40b2652a071746f3ad06d5515b3d71c146108b33": {
     "name": "Al Jazeera 2 (1080p)",
@@ -2643,8 +3768,19 @@
     "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:31+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:43+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "BORDERLINE",
+      "GOOD",
+      "GOOD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E19",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "72f745712330c5e48721667c9cde77cb331c4cc091ae595e9c3e38a152e7a61d": {
     "name": "Bloomberg TV Asia Live Event (720p)",
@@ -2652,8 +3788,14 @@
     "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:28+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:37+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4dde3da174862ac65b62ed2d8e84fbe945477d0da1065b4d4d0f767a5f88df4c": {
     "name": "Bloomberg TV EMEA Live Event (720p)",
@@ -2661,8 +3803,14 @@
     "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:56+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:58+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "1acae0dc393153b72005e6d23c18e69cc033b47950601696b6c3c884913afbd0": {
     "name": "Bloomberg TV US Live Event (720p)",
@@ -2670,8 +3818,14 @@
     "url": "https://bloomberg.com/media-manifest/streams/us-event.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:33+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:41+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "da1e8c6c76ef0f6ed57ee1b7a4afeb7cb588dc22928fb130cc2b5d8aab133879": {
     "name": "Bloomberg TV US Politics Live Event (720p)",
@@ -2679,8 +3833,14 @@
     "url": "https://bloomberg.com/media-manifest/streams/politics.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:58+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "e0c84bf800e90bffcb9f11dd8ec3e8621a3d41aec87dc6598f1bfdf93043a700": {
     "name": "CBS News Miami (720p)",
@@ -2688,8 +3848,14 @@
     "url": "https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:32+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:42+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "0eccf755cb36c0644671a322d4480f2af228e076f740971ea3ca41c842de743a": {
     "name": "CGTN (1080p)",
@@ -2697,8 +3863,14 @@
     "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:27+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:40+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "15a1cb6954b7baa20a665adb928d9a8725890c6c388d1318ac8aae1486a3433a": {
     "name": "CGTN Global Biz (1080p)",
@@ -2717,8 +3889,14 @@
     "url": "http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:29+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:39+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "fc43270b2974b99f2576b8484d3b429e6459605ab0a023f8aef4983945013f51": {
     "name": "CNA",
@@ -2726,8 +3904,14 @@
     "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:25+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:36+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4d210cce2ee1a46f8920013262bedd513d7e0f2f0999d5304e1a78170e723161": {
     "name": "France 24 English (1080p)",
@@ -2735,8 +3919,14 @@
     "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:25+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:36+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7ece17da73d08c2b53652bfbea1087f0fc3f47a028688cb37149450e3ef64f1b": {
     "name": "Newsmax",
@@ -2744,8 +3934,14 @@
     "url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:29+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:38+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "1df2199c5601db33ec7c144ac46f504b0240ad2e600a899a4fe0627979e95930": {
     "name": "NHK World-Japan",
@@ -2761,8 +3957,14 @@
     "url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:30+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:39+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "622740427267286b7e663aaec20282c6f5d0156c3c376004213e7e671696caa2": {
     "name": "Reuters (1080p)",
@@ -2770,8 +3972,14 @@
     "url": "https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:23+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:36+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7ea4ea741ae07546c1bed3ea7b81ccfd3b559f31a5e07479d2635a02e61f4bed": {
     "name": "WionNews",
@@ -2779,8 +3987,14 @@
     "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:29+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:41+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "fb45180d102feefa27f91de12f9e23ded34800d362729613a0ac37730488e3f5": {
     "name": "エンタメニュース (FAST)",
@@ -2799,8 +4013,19 @@
     "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:32+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:44+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "BORDERLINE",
+      "GOOD",
+      "GOOD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E20",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "954646fa8bd83bfecba0932b01d396902d60e5eb9d0e831c5950626ffea9ae53": {
     "name": "浙江国际",
@@ -2808,8 +4033,14 @@
     "url": "https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:59+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "4e4aeba8bc19b723da984140943e6a1cd2f4f8fee54a4cb73b29d238502ea0d2": {
     "name": "环球电视",
@@ -2817,8 +4048,14 @@
     "url": "http://utv1.hqtvzb.com:9999/hls/world.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:30+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:41+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "d274bfad301fe48d874da2040d3b1d7c91efa3f29d3f106e685abcbe2a848907": {
     "name": "LeminoTV (FAST)",
@@ -2859,8 +4096,14 @@
     "url": "https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:43:02+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:44+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "7052baf371cc963347bb9760c6161e4042b4597447656c8e763f51a95b33070f": {
     "name": "ビジネス・プレミアム (FAST)",
@@ -2932,13 +4175,18 @@
     "name": "GOLF LIFE（日本）",
     "group": "高尔夫",
     "url": "https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8",
-    "status": "SLOW",
-    "failures": 1,
-    "checkedAt": "2026-09-26T00:41:26+00:00",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T15:55:33+00:00",
     "published": true,
     "manualIncluded": true,
-    "reason": "用户明确要求保留 P39 GOLF LIFE（日本）；两轮速度不足且连续解码未通过，不标记为合格。",
-    "manualApprovedAt": "2026-09-26T01:10:53+00:00"
+    "reason": "",
+    "manualApprovedAt": "2026-09-26T01:10:53+00:00",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "cd82c5a35c23dc4b1e0b8166d6af762cdec3462d80dfe7ccfaec607a2230271a": {
     "name": "Golf Television（意大利）",
@@ -2946,8 +4194,14 @@
     "url": "https://jmp2.uk/stvp-IT4200001D8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:27+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:55:35+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "5a71c6665fb128586cb8822920306c6c43cf47684fabb2093fae3d5bff0b35e0": {
     "name": "周星驰电影",
@@ -2955,17 +4209,34 @@
     "url": "https://live.metshop.top/huya/11342412",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:41:52+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:01+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "dc5d619b8286978639ef06194dc9f4e56e0e38c506f39b164b817d40df998a45": {
     "name": "林正英电影",
     "group": "电影",
     "url": "https://live.metshop.top/huya/11342421",
-    "status": "GOOD",
-    "failures": 0,
-    "checkedAt": "2026-09-26T00:41:53+00:00",
-    "published": true
+    "status": "SLOW",
+    "failures": 1,
+    "checkedAt": "2026-10-02T15:56:13+00:00",
+    "published": true,
+    "reason": "Initial stream fetch exceeded 8 seconds",
+    "reviewPassStatuses": [
+      "SLOW",
+      "SLOW",
+      "SLOW"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E13",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "8a8a63e184b4dee44b6a3e34c2ffcc2ad5bda4ee47aa72c1d7f47ed93321c9b5": {
     "name": "沈腾电影",
@@ -2973,8 +4244,14 @@
     "url": "https://live.metshop.top/huya/11601968",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:47+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:56:52+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c6064c95af7b61e11875b48a30b90105d9bafbe1a30ae88e7dd186de70bbccfb": {
     "name": "狄仁杰电影",
@@ -2993,8 +4270,14 @@
     "url": "https://live.ottiptv.cc/huya/11352960",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:44:08+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:34+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "830d97c24ff9e55f15b06e4630aae0c25b2ebf1700e2097aec5c5ac2d4746cdf": {
     "name": "金庸武侠",
@@ -3002,8 +4285,19 @@
     "url": "https://live.metshop.top/huya/11342435",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T00:42:57+00:00",
-    "published": true
+    "checkedAt": "2026-10-02T15:57:04+00:00",
+    "published": true,
+    "reason": "",
+    "reviewPassStatuses": [
+      "SLOW",
+      "GOOD",
+      "GOOD"
+    ],
+    "manualIncluded": true,
+    "manualRetainedAt": "2026-10-02T16:19:39+00:00",
+    "retentionId": "E18",
+    "qualityApproved": false,
+    "retentionReason": "用户确认暂时保留本轮慢速或波动频道；保留实测状态，不视为三轮全部合格。"
   },
   "9a2ece914c237f6a3cd3bcf3d091b99fd5d45e91e78b514e88225bff54a7e2f1": {
     "name": "Journal du Golf TV",
@@ -3011,10 +4305,16 @@
     "url": "https://jmp2.uk/stvp-FR2000005YM",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T01:10:19+00:00",
+    "checkedAt": "2026-10-02T15:55:37+00:00",
     "published": true,
     "approvalId": "N01",
-    "approvedAt": "2026-09-26T01:10:53+00:00"
+    "approvedAt": "2026-09-26T01:10:53+00:00",
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "89b06430b8f52569204d5a6cc34eb58180593036da55412dc1200c498a1e86b2": {
     "name": "刘德华电影",
@@ -3022,10 +4322,16 @@
     "url": "https://live.metshop.top/huya/11342424",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T01:10:13+00:00",
+    "checkedAt": "2026-10-02T15:56:57+00:00",
     "published": true,
     "approvalId": "N02",
-    "approvedAt": "2026-09-26T01:10:53+00:00"
+    "approvedAt": "2026-09-26T01:10:53+00:00",
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "b5f15d0aac1ae6041e7c4b74b7d51dec80eb6a668bac4aaf8aa2466d96db4e9a": {
     "name": "成龙电影",
@@ -3033,10 +4339,16 @@
     "url": "http://222.186.39.38:8000/333207/index.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T01:10:12+00:00",
+    "checkedAt": "2026-10-02T15:56:01+00:00",
     "published": true,
     "approvalId": "N03",
-    "approvedAt": "2026-09-26T01:10:53+00:00"
+    "approvedAt": "2026-09-26T01:10:53+00:00",
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "79d085fcb5e82d948d61e60af4e14116ece2b585826ec05cd962b154301e1132": {
     "name": "延禧攻略",
@@ -3044,10 +4356,16 @@
     "url": "https://live.ottiptv.cc/huya/26355864",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T01:10:14+00:00",
+    "checkedAt": "2026-10-02T15:57:36+00:00",
     "published": true,
     "approvalId": "N04",
-    "approvedAt": "2026-09-26T01:10:53+00:00"
+    "approvedAt": "2026-09-26T01:10:53+00:00",
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "3991a8dfe8d8f789299df3c56eda3c4e764e4a8ac13255700d0e402ebb8fc5a5": {
     "name": "湖南电视剧",
@@ -3055,10 +4373,16 @@
     "url": "http://218.77.84.102:85/tsfile/live/148/2004_1.m3u8?key=txiptv",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T01:10:14+00:00",
+    "checkedAt": "2026-10-02T15:56:19+00:00",
     "published": true,
     "approvalId": "N05",
-    "approvedAt": "2026-09-26T01:10:53+00:00"
+    "approvedAt": "2026-09-26T01:10:53+00:00",
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
   },
   "c0955b1864c15fdc2fd06786dff342979b03278c76fcf320a7c4e81bfad641d6": {
     "name": "BBC Top Gear (1080p)",
@@ -3066,9 +4390,205 @@
     "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8",
     "status": "GOOD",
     "failures": 0,
-    "checkedAt": "2026-09-26T01:10:19+00:00",
+    "checkedAt": "2026-10-02T15:56:30+00:00",
     "published": true,
     "approvalId": "N06",
-    "approvedAt": "2026-09-26T01:10:53+00:00"
+    "approvedAt": "2026-09-26T01:10:53+00:00",
+    "reason": "",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ]
+  },
+  "b5ecb119c29bcfa7c149a822b463192e16a23b05234178fb129bbf2b71c11410": {
+    "name": "功夫电影轮播",
+    "group": "电影",
+    "url": "https://live.ottiptv.cc/douyu/9169624",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:26+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N01",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1280,
+    "height": 720
+  },
+  "4b7785e2bd30e40c2b9916b40b2384402ed119c6a4a54f5b01509e2b1709d8a9": {
+    "name": "南宁影视娱乐",
+    "group": "地方频道",
+    "url": "http://hls.nntv.cn/nnlive/YSYL_244.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:20+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N02",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1280,
+    "height": 720
+  },
+  "273f3b718f1ba4d043f39d639596c6c3823e79b1a203b007eb5f569c05aab6d2": {
+    "name": "BBC Food (1080p)",
+    "group": "电视剧·综艺",
+    "url": "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:20+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N03",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "04d7fa30c49ff039effab379c4d9b20b19811961b1569bcb7c9cbb749d849a0a": {
+    "name": "NatureTime (1080p)",
+    "group": "纪录片",
+    "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:22+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N04",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "fc7286aa68b49e326163d3c14b32ee5b60bb04a647c4b8268d3243766864ded8": {
+    "name": "Qello Concerts by Stingray (1080p)",
+    "group": "国际综合",
+    "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:22+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N05",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "1f0de75e20b664cb9ef328189dd9fb312287b04f243f7df8ff750aba449868ba": {
+    "name": "Stingray Classica (1080p)",
+    "group": "国际综合",
+    "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:22+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N06",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "3d499186fcf2c6c99406705412169bf474797a11a68be1a5e5abe73e5123a469": {
+    "name": "Stingray Naturescape (1080p)",
+    "group": "纪录片",
+    "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:26+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N07",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "85bf2c2e28dabfe8ab6ba090096ad0872e6b3671c2ed0abd4438eadba036622a": {
+    "name": "4K Travel TV (1080p)",
+    "group": "纪录片",
+    "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:26+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N08",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "789a0c2aed373fa8f5643425abf82c57fb35337e7b75ae1a7da35b93ed3b6457": {
+    "name": "Clarity 4K (2160p)",
+    "group": "纪录片",
+    "url": "https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:25+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "N09",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 3840,
+    "height": 2160
+  },
+  "4407be7ccc083c6e8cb35b6f571ced2ba1694fa5076cca0f61ef2389c79d6d5c": {
+    "name": "湖南卫视4K",
+    "group": "央视·卫视",
+    "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-02T16:19:23+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-02T16:19:39+00:00",
+    "selectionId": "A01",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 3840,
+    "height": 2160
   }
 }

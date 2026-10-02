@@ -7,9 +7,9 @@
   "acceptedCandidates": 311,
   "rejectedCandidates": 726,
   "visualCheckedChannels": 79,
-  "publishedChannels": 207,
-  "manualIncludedCandidates": 2,
-  "manualUpdatedAt": "2026-09-26T01:10:53+00:00",
+  "publishedChannels": 211,
+  "manualIncludedCandidates": 17,
+  "manualUpdatedAt": "2026-10-02T16:19:39+00:00",
   "manualInclusions": [
     {
       "name": "Golf Channel（捷克）",
@@ -34,6 +34,231 @@
       "reason": "用户在确认 P39 测速不足后明确要求保留；本次清理不删除该频道。",
       "approvedAt": "2026-09-26T01:10:53+00:00",
       "nextManualAudit": "仍须如实检测，删除前需用户另行确认。"
+    },
+    {
+      "name": "四川卫视",
+      "group": "央视·卫视",
+      "url": "http://111.59.24.227:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E06",
+      "passStatuses": [
+        "BORDERLINE",
+        "GOOD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "天津卫视",
+      "group": "央视·卫视",
+      "url": "http://111.59.24.227:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E07",
+      "passStatuses": [
+        "GOOD",
+        "GOOD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "辽宁卫视",
+      "group": "央视·卫视",
+      "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E08",
+      "passStatuses": [
+        "GOOD",
+        "BAD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "青川综合",
+      "group": "地方频道",
+      "url": "http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E09",
+      "passStatuses": [
+        "GOOD",
+        "GOOD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "纬来精采",
+      "group": "港澳台",
+      "url": "http://61.221.215.25:8800/hls/48/index.m3u8",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E10",
+      "passStatuses": [
+        "GOOD",
+        "BAD",
+        "GOOD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "非凡新闻",
+      "group": "港澳台",
+      "url": "rtmp://f13h.mine.nu/sat/tv581",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E11",
+      "passStatuses": [
+        "SLOW",
+        "SLOW",
+        "GOOD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "Sportitalia (1080p)",
+      "group": "综合体育",
+      "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E12",
+      "passStatuses": [
+        "GOOD",
+        "GOOD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "林正英电影",
+      "group": "电影",
+      "url": "https://live.metshop.top/huya/11342421",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E13",
+      "passStatuses": [
+        "SLOW",
+        "SLOW",
+        "SLOW"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "Sony One Hits Action (1080p)",
+      "group": "电影",
+      "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E14",
+      "passStatuses": [
+        "GOOD",
+        "SLOW",
+        "GOOD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "梦中的那片海",
+      "group": "电视剧·综艺",
+      "url": "https://live.ottiptv.cc/huya/26355765",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E15",
+      "passStatuses": [
+        "GOOD",
+        "GOOD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "谈判专家",
+      "group": "电视剧·综艺",
+      "url": "https://live.ottiptv.cc/yy/1382735560",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E16",
+      "passStatuses": [
+        "GOOD",
+        "SLOW",
+        "SLOW"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "雪豹",
+      "group": "电视剧·综艺",
+      "url": "https://live.ottiptv.cc/huya/29580970",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E17",
+      "passStatuses": [
+        "GOOD",
+        "BAD",
+        "BAD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "金庸武侠",
+      "group": "电视剧·综艺",
+      "url": "https://live.metshop.top/huya/11342435",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E18",
+      "passStatuses": [
+        "SLOW",
+        "GOOD",
+        "GOOD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "Al Jazeera 2 (1080p)",
+      "group": "国际新闻",
+      "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E19",
+      "passStatuses": [
+        "BORDERLINE",
+        "GOOD",
+        "GOOD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
+    },
+    {
+      "name": "RT News（英语国际）",
+      "group": "国际综合",
+      "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8",
+      "qualityApproved": false,
+      "reason": "用户确认暂时保留本轮慢速或波动频道；实测状态不改为全部合格。",
+      "approvedAt": "2026-10-02T16:19:39+00:00",
+      "reviewId": "E20",
+      "passStatuses": [
+        "BORDERLINE",
+        "GOOD",
+        "GOOD"
+      ],
+      "nextManualAudit": "仍须如实检测；本次不自动删除，后续删除需用户确认。"
     }
   ],
   "statusCounts": {
@@ -41,18 +266,18 @@
     "GOOD": 311
   },
   "groups": {
-    "央视·卫视": 34,
+    "央视·卫视": 33,
     "地方频道": 29,
     "港澳台": 6,
     "高尔夫": 6,
     "足球": 2,
     "综合体育": 6,
-    "纪录片": 27,
+    "纪录片": 31,
     "电影": 34,
-    "电视剧·综艺": 34,
+    "电视剧·综艺": 33,
     "少儿动漫": 10,
     "国际新闻": 15,
-    "国际综合": 3,
+    "国际综合": 5,
     "日本综合": 1
   },
   "criteria": {
@@ -65,7 +290,7 @@
     "temporarySignedOrUntrustedRelayIsRejected": true,
     "majorBrandFrameVerificationRequired": true
   },
-  "updatedAt": "2026-09-26T01:10:53+00:00",
+  "updatedAt": "2026-10-02T16:19:39+00:00",
   "lastExpansion": {
     "generatedAt": "2026-09-15T11:04:03+00:00",
     "scope": "仅检测并精选新增线路；既有267个频道全部保留，不把旧频道标记为本次重新验证。",
@@ -201,604 +426,580 @@
     ]
   },
   "lastMaintenance": {
-    "generatedAt": "2026-09-26T01:10:53+00:00",
-    "scope": "按用户确认删除 P01–P75 除 P39 的74个频道，添加 N01–N06；不按额外检测扩大删除范围。",
-    "previousPublishedChannels": 275,
-    "publishedChannels": 207,
-    "retainedExistingChannels": 201,
-    "approvedRemovedChannels": 74,
-    "removedCandidateEntries": 83,
-    "addedChannels": 6,
+    "generatedAt": "2026-10-02T16:19:39+00:00",
+    "reviewDate": "2026-10-02",
+    "scope": "按用户确认删除E01–E05，保留E06–E20，添加N01–N09，A01湖南卫视升级4K；不扩大删除范围。",
+    "previousPublishedChannels": 207,
+    "publishedChannels": 211,
+    "retainedExistingChannels": 202,
+    "approvedRemovedChannels": 5,
+    "removedCandidateEntries": 5,
+    "addedChannels": 9,
+    "replacedChannels": 1,
+    "replacedCandidateEntries": 2,
     "currentAuditCounts": {
-      "两轮读取失败": 28,
-      "慢速或波动": 46,
-      "两轮基础通过": 200,
-      "画质不足": 1
+      "三轮全部通过": 187,
+      "三轮读取失败": 3,
+      "画质不足": 2,
+      "慢速或波动": 15
     },
-    "testedCurrentRecords": 275,
-    "testedNewCandidateRoutes": 253,
-    "currentFirstPassCompletedAt": "2026-09-26T00:39:42+00:00",
-    "currentSecondPassCompletedAt": "2026-09-26T00:46:50+00:00",
-    "manualKept": {
-      "id": "P39",
-      "name": "GOLF LIFE（日本）",
-      "qualityApproved": false
-    },
+    "testedCurrentRecords": 207,
+    "currentAttempts": 621,
+    "testedNewCandidateRoutes": 189,
+    "currentPassCompletedAt": [
+      "2026-10-02T15:49:46+00:00",
+      "2026-10-02T15:53:39+00:00",
+      "2026-10-02T15:57:41+00:00"
+    ],
     "removed": [
       {
-        "id": "P01",
-        "name": "CCTV1",
+        "id": "E01",
+        "name": "山东卫视",
         "group": "央视·卫视",
-        "url": "http://182.140.125.47:808/hls/1/index.m3u8"
+        "url": "http://183.94.146.79:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
-        "id": "P02",
-        "name": "CCTV2",
-        "group": "央视·卫视",
-        "url": "http://221.7.175.154:8445/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "id": "E02",
+        "name": "邯郸公共频道",
+        "group": "地方频道",
+        "url": "https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8"
       },
       {
-        "id": "P29",
-        "name": "CCTV3",
-        "group": "央视·卫视",
-        "url": "http://112.30.73.119:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=0&authid=0"
+        "id": "E03",
+        "name": "Asianet Movies HD (720p)",
+        "group": "电影",
+        "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8"
       },
       {
-        "id": "P30",
-        "name": "CCTV8",
-        "group": "央视·卫视",
-        "url": "http://112.30.73.119:9901/tsfile/live/0008_2.m3u8?key=txiptv&playlive=0&authid=0"
+        "id": "E04",
+        "name": "FilmRise Séries France (720p)",
+        "group": "电视剧·综艺",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883033"
       },
       {
-        "id": "P03",
-        "name": "CCTV10",
+        "id": "E05",
+        "name": "FilmRise Binge Watch France (720p)",
+        "group": "电视剧·综艺",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883021"
+      }
+    ],
+    "manualKept": [
+      {
+        "id": "E06",
+        "name": "四川卫视",
         "group": "央视·卫视",
-        "url": "http://124.228.160.190:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "url": "http://111.59.24.227:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
-        "id": "P04",
-        "name": "CCTV12",
+        "id": "E07",
+        "name": "天津卫视",
         "group": "央视·卫视",
-        "url": "http://221.7.175.154:8445/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "url": "http://111.59.24.227:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
-        "id": "P05",
-        "name": "江苏卫视",
+        "id": "E08",
+        "name": "辽宁卫视",
         "group": "央视·卫视",
-        "url": "http://124.228.160.190:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "url": "http://111.59.24.227:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0"
       },
       {
-        "id": "P06",
-        "name": "北京卫视",
-        "group": "央视·卫视",
-        "url": "http://124.228.160.190:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0"
+        "id": "E09",
+        "name": "青川综合",
+        "group": "地方频道",
+        "url": "http://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8"
       },
       {
-        "id": "P31",
-        "name": "安徽卫视",
-        "group": "央视·卫视",
-        "url": "http://219.147.245.238:25480/newlive/live/hls/40/live.m3u8"
-      },
-      {
-        "id": "P07",
-        "name": "广西卫视",
-        "group": "央视·卫视",
-        "url": "http://222.169.85.8:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0"
-      },
-      {
-        "id": "P32",
-        "name": "吉林卫视",
-        "group": "央视·卫视",
-        "url": "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub"
-      },
-      {
-        "id": "P33",
-        "name": "人间卫视",
-        "group": "央视·卫视",
-        "url": "http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u"
-      },
-      {
-        "id": "P34",
-        "name": "陕西卫视",
-        "group": "央视·卫视",
-        "url": "http://153.0.171.163:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0"
-      },
-      {
-        "id": "P08",
-        "name": "三沙卫视",
-        "group": "央视·卫视",
-        "url": "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws"
-      },
-      {
-        "id": "P35",
-        "name": "台视新闻",
+        "id": "E10",
+        "name": "纬来精采",
         "group": "港澳台",
-        "url": "http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8"
+        "url": "http://61.221.215.25:8800/hls/48/index.m3u8"
       },
       {
-        "id": "P36",
-        "name": "美亚C+",
+        "id": "E11",
+        "name": "非凡新闻",
         "group": "港澳台",
-        "url": "http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8"
+        "url": "rtmp://f13h.mine.nu/sat/tv581"
       },
       {
-        "id": "P09",
-        "name": "凤凰资讯",
-        "group": "港澳台",
-        "url": "http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0"
-      },
-      {
-        "id": "P37",
-        "name": "民视",
-        "group": "港澳台",
-        "url": "rtmp://f13h.mine.nu/sat/tv051"
-      },
-      {
-        "id": "P38",
-        "name": "纬来日本",
-        "group": "港澳台",
-        "url": "rtmp://f13h.mine.nu/sat/tv771"
-      },
-      {
-        "id": "P10",
-        "name": "Real Madrid TV (726p)",
-        "group": "足球",
-        "url": "https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8"
-      },
-      {
-        "id": "P40",
-        "name": "FIFA+ Portuguese (720p)",
-        "group": "足球",
-        "url": "https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8"
-      },
-      {
-        "id": "P41",
-        "name": "CCTV5",
+        "id": "E12",
+        "name": "Sportitalia (1080p)",
         "group": "综合体育",
-        "url": "http://112.30.73.119:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0"
+        "url": "https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8"
       },
       {
-        "id": "P11",
-        "name": "fubo Sports Network (1080p)",
-        "group": "综合体育",
-        "url": "https://dnf08l6u6uxnz.cloudfront.net/master.m3u8"
-      },
-      {
-        "id": "P12",
-        "name": "Roku Sports Channel (1080p)",
-        "group": "综合体育",
-        "url": "https://d3ialx0k0mla2a.cloudfront.net/Roku_Sports_Channel.m3u8"
-      },
-      {
-        "id": "P42",
-        "name": "Sport Fishing TV (1080p)",
-        "group": "综合体育",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8"
-      },
-      {
-        "id": "P13",
-        "name": "TNA Wrestling (1080p)",
-        "group": "综合体育",
-        "url": "https://dpltey7dr5q2g.cloudfront.net/TNA_Wrestling.m3u8"
-      },
-      {
-        "id": "P43",
-        "name": "Cricket Gold (1080p)",
-        "group": "综合体育",
-        "url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8"
-      },
-      {
-        "id": "P44",
-        "name": "Sports First (1080p)",
-        "group": "综合体育",
-        "url": "https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409.m3u8"
-      },
-      {
-        "id": "P45",
-        "name": "Asharq Discovery (1080p)",
-        "group": "纪录片",
-        "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8"
-      },
-      {
-        "id": "P14",
-        "name": "Documentary+ (1080p)",
-        "group": "纪录片",
-        "url": "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8"
-      },
-      {
-        "id": "P15",
-        "name": "PBS Nature (1080p)",
-        "group": "纪录片",
-        "url": "https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8"
-      },
-      {
-        "id": "P16",
-        "name": "PBS Science (1080p)",
-        "group": "纪录片",
-        "url": "https://amg02333-pbs-amg02333c13-samsung-au-6858.playouts.now.amagi.tv/playlist.m3u8"
-      },
-      {
-        "id": "P46",
-        "name": "Docu Vision (1080p)",
-        "group": "纪录片",
-        "url": "https://streams2.sofast.tv/sofastplayout/7e8d2a51-985d-4e76-bf7e-91edf0aa6e5f_0_HLS/master.m3u8"
-      },
-      {
-        "id": "P17",
-        "name": "Brave Wilderness (1080p)",
-        "group": "纪录片",
-        "url": "https://d95zc3i1pxhs7.cloudfront.net/playlist.m3u8"
-      },
-      {
-        "id": "P47",
-        "name": "NatureTime Finland (1080p)",
-        "group": "纪录片",
-        "url": "https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8"
-      },
-      {
-        "id": "P48",
-        "name": "Space Series (1080p)",
-        "group": "纪录片",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8"
-      },
-      {
-        "id": "P49",
-        "name": "Wildest Wish TV (1080p)",
-        "group": "纪录片",
-        "url": "https://streams2.sofast.tv/sofast3/v1/0197e8dd18f31ebd4704322ec12ab7/0197e8dd477d1ea506ec3673c3696b/playlist.m3u8"
-      },
-      {
-        "id": "P18",
-        "name": "Docu. (1080p)",
-        "group": "纪录片",
-        "url": "http://45.162.193.35/DOCU/index.m3u8"
-      },
-      {
-        "id": "P19",
-        "name": "Xtreme Outdoor Presented by HISTORY (720p)",
-        "group": "纪录片",
-        "url": "https://dxagbr7yc4m1d.cloudfront.net/v1/aenetworks_skills_thrills_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
-      },
-      {
-        "id": "P50",
-        "name": "CCTV6",
+        "id": "E13",
+        "name": "林正英电影",
         "group": "电影",
-        "url": "http://112.30.73.119:9901/tsfile/live/0006_2.m3u8?key=txiptv&playlive=0&authid=0"
+        "url": "https://live.metshop.top/huya/11342421"
       },
       {
-        "id": "P20",
-        "name": "狄仁杰电影",
+        "id": "E14",
+        "name": "Sony One Hits Action (1080p)",
         "group": "电影",
-        "url": "https://live.metshop.top/huya/30080229"
+        "url": "https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8"
       },
       {
-        "id": "P51",
-        "name": "Best Thriller TV (1080p)",
-        "group": "电影",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ce168a85-c8d4-41d6-a597-cc8fd7baddd9/manifest.m3u8"
-      },
-      {
-        "id": "P52",
-        "name": "Horror TV (1080p)",
-        "group": "电影",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8"
-      },
-      {
-        "id": "P53",
-        "name": "Drive In Movie Channel (1080p)",
-        "group": "电影",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8"
-      },
-      {
-        "id": "P21",
-        "name": "Lifetime Movies Love & Drama (1080p)",
-        "group": "电影",
-        "url": "https://d1s7megtamek6r.cloudfront.net/Lifetime_Love_and_Drama.m3u8"
-      },
-      {
-        "id": "P22",
-        "name": "OUTflix Movies (1080p)",
-        "group": "电影",
-        "url": "https://dg37ei3o66x3s.cloudfront.net/OutTV_US.m3u8"
-      },
-      {
-        "id": "P23",
-        "name": "ETV Cinema HD (1080p)",
-        "group": "电影",
-        "url": "https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8"
-      },
-      {
-        "id": "P54",
-        "name": "Cowboy Movie Channel (1080p)",
-        "group": "电影",
-        "url": "https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8"
-      },
-      {
-        "id": "P55",
-        "name": "Genie K Movie (1080p)",
-        "group": "电影",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US200001137&channel_id=newid_350&tp=samsung_tvplus"
-      },
-      {
-        "id": "P24",
-        "name": "三国演义",
+        "id": "E15",
+        "name": "梦中的那片海",
         "group": "电视剧·综艺",
-        "url": "https://live.ottiptv.cc/huya/11602081"
+        "url": "https://live.ottiptv.cc/huya/26355765"
       },
       {
-        "id": "P56",
-        "name": "伪装者",
+        "id": "E16",
+        "name": "谈判专家",
         "group": "电视剧·综艺",
-        "url": "https://live.ottiptv.cc/yy/1354936244"
+        "url": "https://live.ottiptv.cc/yy/1382735560"
       },
       {
-        "id": "P57",
-        "name": "流水迢迢",
+        "id": "E17",
+        "name": "雪豹",
         "group": "电视剧·综艺",
-        "url": "https://live.ottiptv.cc/huya/23865036"
+        "url": "https://live.ottiptv.cc/huya/29580970"
       },
       {
-        "id": "P25",
-        "name": "Acorn TV Mysteries (720p)",
+        "id": "E18",
+        "name": "金庸武侠",
         "group": "电视剧·综艺",
-        "url": "https://d25ms2fshb3tcf.cloudfront.net/playlist.m3u8"
+        "url": "https://live.metshop.top/huya/11342435"
       },
       {
-        "id": "P26",
-        "name": "K Drama by CJ ENM (1080p)",
-        "group": "电视剧·综艺",
-        "url": "https://d2fdocl6hmu0hh.cloudfront.net/dfa54c7d_1154_425d_a2b8_6ea994157976/hls/playlist.m3u8"
-      },
-      {
-        "id": "P27",
-        "name": "Mystery Science Theater 3000 (1080p)",
-        "group": "电视剧·综艺",
-        "url": "https://d1c73nj8qxp55a.cloudfront.net/Mystery_Science_Theater_3000.m3u8"
-      },
-      {
-        "id": "P58",
-        "name": "Mundo Series (1080p)",
-        "group": "电视剧·综艺",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8"
-      },
-      {
-        "id": "P59",
-        "name": "Genie K Drama (1080p)",
-        "group": "电视剧·综艺",
-        "url": "https://ads.its-newid.net/api/manifest.m3u8?ads.service_id=US2000012KX&channel_id=newid_351&tp=samsung_tvplus"
-      },
-      {
-        "id": "P60",
-        "name": "Best Drama TV (1080p)",
-        "group": "电视剧·综艺",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8"
-      },
-      {
-        "id": "P61",
-        "name": "Cartoon Classics (1080p)",
-        "group": "少儿动漫",
-        "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8"
-      },
-      {
-        "id": "P75",
-        "name": "名侦探柯南",
-        "group": "少儿动漫",
-        "url": "https://live.ottiptv.cc/huya/30080236"
-      },
-      {
-        "id": "P62",
-        "name": "精灵宝可梦",
-        "group": "少儿动漫",
-        "url": "https://live.ottiptv.cc/huya/23749096"
-      },
-      {
-        "id": "P28",
-        "name": "It’s Anime (1080p)",
-        "group": "少儿动漫",
-        "url": "https://d1isoijd9dbbf7.cloudfront.net/playlist.m3u8"
-      },
-      {
-        "id": "P63",
-        "name": "Sat 7 Kids (1080p)",
-        "group": "少儿动漫",
-        "url": "https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8"
-      },
-      {
-        "id": "P64",
-        "name": "CGTN Global Biz (1080p)",
+        "id": "E19",
+        "name": "Al Jazeera 2 (1080p)",
         "group": "国际新闻",
-        "url": "https://fastlive.cctvplus.com/out/v1/2b3d8a0c805d437f9dc85b764c2ac599/index.m3u8"
+        "url": "https://live-hls-web-aja2-gcp.thehlive.com/AJA2/index.m3u8"
       },
       {
-        "id": "P65",
-        "name": "エンタメニュース (FAST)",
-        "group": "国际新闻",
-        "url": "https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8"
-      },
-      {
-        "id": "P66",
-        "name": "LeminoTV (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8"
-      },
-      {
-        "id": "P67",
-        "name": "アニマックス FREE (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8"
-      },
-      {
-        "id": "P68",
-        "name": "今日のごはんなに? (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8"
-      },
-      {
-        "id": "P69",
-        "name": "時代劇TV (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8"
-      },
-      {
-        "id": "P70",
-        "name": "ビジネス・プレミアム (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8"
-      },
-      {
-        "id": "P71",
-        "name": "エンタメ・アジア (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8"
-      },
-      {
-        "id": "P72",
-        "name": "韓流チャンネル (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8"
-      },
-      {
-        "id": "P73",
-        "name": "観るたび (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8"
-      },
-      {
-        "id": "P74",
-        "name": "丸ごと九州 (FAST)",
-        "group": "日本综合",
-        "url": "https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8"
+        "id": "E20",
+        "name": "RT News（英语国际）",
+        "group": "国际综合",
+        "url": "https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8"
       }
     ],
     "added": [
       {
         "id": "N01",
-        "name": "Journal du Golf TV",
-        "group": "高尔夫",
-        "url": "https://jmp2.uk/stvp-FR2000005YM",
-        "width": 1920,
-        "height": 1080,
-        "firstCheckedAt": "2026-09-26T00:49:19+00:00",
-        "secondCheckedAt": "2026-09-26T00:53:07+00:00",
-        "playbackSeconds": 30.0
+        "name": "功夫电影轮播",
+        "group": "电影",
+        "url": "https://live.ottiptv.cc/douyu/9169624",
+        "width": 1280,
+        "height": 720,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T16:00:36+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.442,
+            "speedMargin": null
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:17+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 2.409,
+            "speedMargin": null
+          },
+          {
+            "checkedAt": "2026-10-02T16:04:26+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.875,
+            "speedMargin": null
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/CCSH/IPTV/blob/HEAD/live_platforms.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:26+00:00",
+        "resolutionNote": "研究三轮为1080p，发布前复查为720p；均达到电影720p门槛，轮播随节目变化，不在频道名称承诺固定1080p。"
       },
       {
         "id": "N02",
-        "name": "刘德华电影",
-        "group": "电影",
-        "url": "https://live.metshop.top/huya/11342424",
-        "width": 1920,
-        "height": 1080,
-        "firstCheckedAt": "2026-09-26T00:47:20+00:00",
-        "secondCheckedAt": "2026-09-26T00:53:02+00:00",
-        "playbackSeconds": 30.0
+        "name": "南宁影视娱乐",
+        "group": "地方频道",
+        "url": "http://hls.nntv.cn/nnlive/YSYL_244.m3u8",
+        "width": 1280,
+        "height": 720,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:58:06+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 2.015,
+            "speedMargin": 28.814
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:40+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 2.157,
+            "speedMargin": 17.018
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:00+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.302,
+            "speedMargin": 39.069
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/zilong7728/Collect-IPTV/blob/HEAD/best_sorted.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:20+00:00"
       },
       {
         "id": "N03",
-        "name": "成龙电影",
-        "group": "电影",
-        "url": "http://222.186.39.38:8000/333207/index.m3u8",
-        "width": 1280,
-        "height": 720,
-        "firstCheckedAt": "2026-09-26T00:48:38+00:00",
-        "secondCheckedAt": "2026-09-26T00:53:01+00:00",
-        "playbackSeconds": 30.0
+        "name": "BBC Food (1080p)",
+        "group": "电视剧·综艺",
+        "url": "https://d1e9r0b71zfwk7.cloudfront.net/playlist.m3u8",
+        "width": 1920,
+        "height": 1080,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:58:34+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.04,
+            "speedMargin": 9.83
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:42+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.186,
+            "speedMargin": 10.413
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:02+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.082,
+            "speedMargin": 7.239
+          }
+        ],
+        "playbackSeconds": 30.003333,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/us_samsung.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:20+00:00"
       },
       {
         "id": "N04",
-        "name": "延禧攻略",
-        "group": "电视剧·综艺",
-        "url": "https://live.ottiptv.cc/huya/26355864",
+        "name": "NatureTime (1080p)",
+        "group": "纪录片",
+        "url": "https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8",
         "width": 1920,
         "height": 1080,
-        "firstCheckedAt": "2026-09-26T00:50:50+00:00",
-        "secondCheckedAt": "2026-09-26T00:53:04+00:00",
-        "playbackSeconds": 30.0
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:58:45+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.473,
+            "speedMargin": 3.712
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:45+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.293,
+            "speedMargin": 4.051
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:05+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.51,
+            "speedMargin": 3.641
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/au_samsung.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:22+00:00"
       },
       {
         "id": "N05",
-        "name": "湖南电视剧",
-        "group": "电视剧·综艺",
-        "url": "http://218.77.84.102:85/tsfile/live/148/2004_1.m3u8?key=txiptv",
+        "name": "Qello Concerts by Stingray (1080p)",
+        "group": "国际综合",
+        "url": "https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8",
         "width": 1920,
         "height": 1080,
-        "firstCheckedAt": "2026-09-26T00:48:39+00:00",
-        "secondCheckedAt": "2026-09-26T00:53:01+00:00",
-        "playbackSeconds": 30.0
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:59:03+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.522,
+            "speedMargin": 20.828
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:45+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.929,
+            "speedMargin": 5.878
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:05+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.055,
+            "speedMargin": 5.235
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/ca_stingray.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:22+00:00"
       },
       {
         "id": "N06",
-        "name": "BBC Top Gear (1080p)",
-        "group": "电视剧·综艺",
-        "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8",
+        "name": "Stingray Classica (1080p)",
+        "group": "国际综合",
+        "url": "https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8",
         "width": 1920,
         "height": 1080,
-        "firstCheckedAt": "2026-09-26T00:47:19+00:00",
-        "secondCheckedAt": "2026-09-26T00:53:01+00:00",
-        "playbackSeconds": 30.01
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:59:06+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.473,
+            "speedMargin": 10.301
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:46+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.21,
+            "speedMargin": 4.384
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:07+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.281,
+            "speedMargin": 3.948
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/ca_stingray.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:22+00:00"
+      },
+      {
+        "id": "N07",
+        "name": "Stingray Naturescape (1080p)",
+        "group": "纪录片",
+        "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+        "width": 1920,
+        "height": 1080,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:59:47+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.99,
+            "speedMargin": 3.941
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:49+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.561,
+            "speedMargin": 6.74
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:09+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.548,
+            "speedMargin": 17.821
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/ca_stingray.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:26+00:00"
+      },
+      {
+        "id": "N08",
+        "name": "4K Travel TV (1080p)",
+        "group": "纪录片",
+        "url": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8",
+        "width": 1920,
+        "height": 1080,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:58:53+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 3.389,
+            "speedMargin": 2.57
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:46+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.843,
+            "speedMargin": 9.782
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:08+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.395,
+            "speedMargin": 3.755
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/us_sofast.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:26+00:00"
+      },
+      {
+        "id": "N09",
+        "name": "Clarity 4K (2160p)",
+        "group": "纪录片",
+        "url": "https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8",
+        "width": 3840,
+        "height": 2160,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:59:10+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.583,
+            "speedMargin": 5.768
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:47+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.381,
+            "speedMargin": 9.189
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:08+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 1.462,
+            "speedMargin": 5.502
+          }
+        ],
+        "playbackSeconds": 30.003625,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/iptv-org/iptv/blob/HEAD/streams/us_samsung.m3u",
+        "latestCheckedAt": "2026-10-02T16:19:25+00:00"
       }
     ],
-    "ordering": "保留现有频道相对次序；中文电影和电视剧在前，外语在后。BBC Top Gear归入电视剧·综艺。",
-    "auditNote": "复用本次刚完成的家庭Mac双轮检测和画面检查；P39为用户明确保留的例外。原始历史统计保留在上方对应时间字段。",
+    "replaced": [
+      {
+        "previousName": "湖南卫视",
+        "previousUrl": "http://101.35.240.114:88/live.php?id=湖南卫视",
+        "id": "A01",
+        "name": "湖南卫视4K",
+        "group": "央视·卫视",
+        "url": "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+        "width": 3840,
+        "height": 2160,
+        "checks": [
+          {
+            "checkedAt": "2026-10-02T15:59:12+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.081,
+            "speedMargin": 130.972
+          },
+          {
+            "checkedAt": "2026-10-02T16:01:46+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.096,
+            "speedMargin": 21.403
+          },
+          {
+            "checkedAt": "2026-10-02T16:03:08+00:00",
+            "status": "GOOD",
+            "manifestSeconds": 0.066,
+            "speedMargin": 63.905
+          }
+        ],
+        "playbackSeconds": 30.0,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/akiralereal/iptv/blob/HEAD/IPTV.m3u",
+        "tvgIdPreserved": "hometv.d63ff7cff1cfd56f",
+        "latestCheckedAt": "2026-10-02T16:19:23+00:00"
+      }
+    ],
+    "ordering": "保留既有频道相对次序和湖南卫视原位置；华语电影在外语电影之前，新增频道归入既有分组。",
+    "auditNote": "复用同一家庭Mac刚完成的三轮检测及画面核验；15个问题频道是本次用户明确保留，不伪装为质量合格。上方历史统计仍对应其原始generatedAt。",
     "prepublishRecheck": {
-      "completedAt": "2026-09-26T01:10:19+00:00",
+      "completedAt": "2026-10-02T16:19:26+00:00",
       "statusCounts": {
-        "GOOD": 6
+        "GOOD": 10
       },
       "records": [
         {
-          "name": "Journal du Golf TV",
-          "status": "GOOD",
-          "width": 1920,
-          "height": 1080,
-          "manifest_seconds": 4.904,
-          "speed_margin": 2.67,
-          "checkedAt": "2026-09-26T01:10:19+00:00"
-        },
-        {
-          "name": "刘德华电影",
-          "status": "GOOD",
-          "width": 1920,
-          "height": 1080,
-          "manifest_seconds": 1.684,
-          "speed_margin": null,
-          "checkedAt": "2026-09-26T01:10:13+00:00"
-        },
-        {
-          "name": "成龙电影",
+          "name": "南宁影视娱乐",
           "status": "GOOD",
           "width": 1280,
           "height": 720,
-          "manifest_seconds": 0.125,
-          "speed_margin": 43.287,
-          "checkedAt": "2026-09-26T01:10:12+00:00"
+          "manifest_seconds": 1.048,
+          "speed_margin": 21.374,
+          "checkedAt": "2026-10-02T16:19:20+00:00"
         },
         {
-          "name": "延禧攻略",
+          "name": "BBC Food (1080p)",
           "status": "GOOD",
           "width": 1920,
           "height": 1080,
-          "manifest_seconds": 2.298,
+          "manifest_seconds": 1.079,
+          "speed_margin": 10.713,
+          "checkedAt": "2026-10-02T16:19:20+00:00"
+        },
+        {
+          "name": "NatureTime (1080p)",
+          "status": "GOOD",
+          "width": 1920,
+          "height": 1080,
+          "manifest_seconds": 1.408,
+          "speed_margin": 2.88,
+          "checkedAt": "2026-10-02T16:19:22+00:00"
+        },
+        {
+          "name": "Qello Concerts by Stingray (1080p)",
+          "status": "GOOD",
+          "width": 1920,
+          "height": 1080,
+          "manifest_seconds": 1.111,
+          "speed_margin": 4.488,
+          "checkedAt": "2026-10-02T16:19:22+00:00"
+        },
+        {
+          "name": "Stingray Classica (1080p)",
+          "status": "GOOD",
+          "width": 1920,
+          "height": 1080,
+          "manifest_seconds": 1.102,
+          "speed_margin": 4.424,
+          "checkedAt": "2026-10-02T16:19:22+00:00"
+        },
+        {
+          "name": "Stingray Naturescape (1080p)",
+          "status": "GOOD",
+          "width": 1920,
+          "height": 1080,
+          "manifest_seconds": 0.519,
+          "speed_margin": 6.616,
+          "checkedAt": "2026-10-02T16:19:26+00:00"
+        },
+        {
+          "name": "4K Travel TV (1080p)",
+          "status": "GOOD",
+          "width": 1920,
+          "height": 1080,
+          "manifest_seconds": 2.252,
+          "speed_margin": 2.831,
+          "checkedAt": "2026-10-02T16:19:26+00:00"
+        },
+        {
+          "name": "Clarity 4K (2160p) [Geo-blocked]",
+          "status": "GOOD",
+          "width": 3840,
+          "height": 2160,
+          "manifest_seconds": 1.526,
+          "speed_margin": 8.212,
+          "checkedAt": "2026-10-02T16:19:25+00:00"
+        },
+        {
+          "name": "湖南卫视4K",
+          "status": "GOOD",
+          "width": 3840,
+          "height": 2160,
+          "manifest_seconds": 0.318,
+          "speed_margin": 88.835,
+          "checkedAt": "2026-10-02T16:19:23+00:00"
+        },
+        {
+          "name": "功夫联盟2020",
+          "status": "GOOD",
+          "width": 1280,
+          "height": 720,
+          "manifest_seconds": 2.578,
           "speed_margin": null,
-          "checkedAt": "2026-09-26T01:10:14+00:00"
-        },
-        {
-          "name": "湖南电视剧",
-          "status": "GOOD",
-          "width": 1920,
-          "height": 1080,
-          "manifest_seconds": 0.072,
-          "speed_margin": 2.356,
-          "checkedAt": "2026-09-26T01:10:14+00:00"
-        },
-        {
-          "name": "BBC Top Gear (1080p)",
-          "status": "GOOD",
-          "width": 1920,
-          "height": 1080,
-          "manifest_seconds": 1.958,
-          "speed_margin": 2.836,
-          "checkedAt": "2026-09-26T01:10:19+00:00"
+          "checkedAt": "2026-10-02T16:19:26+00:00"
         }
       ]
     }
