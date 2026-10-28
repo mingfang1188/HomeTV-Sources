@@ -225,6 +225,8 @@ https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/mast
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="hometv.9298fbd9c939aae6" tvg-name="Clarity 4K (2160p)" group-title="纪录片",Clarity 4K (2160p)
 https://pb-qyrvophnifz47.akamaized.net/Clarity_4K.m3u8
+#EXTINF:-1 tvg-id="hometv.6063d895afddf772" tvg-name="CCTV6" tvg-logo="https://i.imgur.com/SsPN5I3.png" group-title="电影",CCTV6
+http://69.30.245.50/live/cctv6.m3u8
 #EXTINF:-1 tvg-id="hometv.75ea6797c2963aa9" tvg-name="浙江教科" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="电影",浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 #EXTINF:-1 tvg-id="hometv.5f187d4611c19dc5" tvg-name="周星驰电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",周星驰电影
@@ -239,6 +241,12 @@ https://live.metshop.top/huya/11342424
 http://222.186.39.38:8000/333207/index.m3u8
 #EXTINF:-1 tvg-id="hometv.fca1be84e8166867" tvg-name="功夫电影轮播" tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202009/ee36d21260434d5d9f3dfcb6a4cb57dd_big.jpg" group-title="电影",功夫电影轮播
 https://live.ottiptv.cc/douyu/9169624
+#EXTINF:-1 tvg-id="hometv.4f606be374a422ee" tvg-name="喜剧影院" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/喜剧影院.png" group-title="电影",喜剧影院
+http://173.208.234.146/live/vlxjyy.m3u8
+#EXTINF:-1 tvg-id="hometv.0e7ff7448a80f323" tvg-name="洪金宝电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/洪金宝.png" group-title="电影",洪金宝电影
+http://173.208.234.146/live/vlhjb.m3u8
+#EXTINF:-1 tvg-id="hometv.a3fd19c59b08c5d6" tvg-name="甄子丹电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/甄子丹.png" group-title="电影",甄子丹电影
+http://tv.zimtv.cn/tv/player/api/huya.php?id=11352935
 #EXTINF:-1 tvg-id="hometv.8dbe09ec84b8d9bb" tvg-name="Hi-YAH! (1080p)" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="电影",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.94569f9e9c579307" tvg-name="Great! Movies (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="电影",Great! Movies (1080p)

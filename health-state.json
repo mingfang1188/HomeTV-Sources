@@ -4590,5 +4590,77 @@
     "qualityApproved": true,
     "width": 3840,
     "height": 2160
+  },
+  "9449d12cadd192baaf0facde357124e453c14674e2881b12553e6807f80acdf2": {
+    "name": "CCTV6",
+    "group": "电影",
+    "url": "http://69.30.245.50/live/cctv6.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-28T05:02:51+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-28T05:03:38+00:00",
+    "selectionId": "N01",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1280,
+    "height": 720
+  },
+  "802f68318186298f084ac9af0a5710d3e3e5342f5f4094944a8cdca89e47ffaa": {
+    "name": "喜剧影院",
+    "group": "电影",
+    "url": "http://173.208.234.146/live/vlxjyy.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-28T05:02:51+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-28T05:03:38+00:00",
+    "selectionId": "N02",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1032
+  },
+  "7ae35bf1ff3da61a8fbe64bb2602e842527f81b231421f1590c0877d1c9f5964": {
+    "name": "洪金宝电影",
+    "group": "电影",
+    "url": "http://173.208.234.146/live/vlhjb.m3u8",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-28T05:02:51+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-28T05:03:38+00:00",
+    "selectionId": "N03",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "54eeeebba8f554036e42a5e78a06d0644fc0743301a8e2531661538c67efd5fb": {
+    "name": "甄子丹电影",
+    "group": "电影",
+    "url": "http://tv.zimtv.cn/tv/player/api/huya.php?id=11352935",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-10-28T05:02:51+00:00",
+    "published": true,
+    "addedByUserAt": "2026-10-28T05:03:38+00:00",
+    "selectionId": "N04",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1916,
+    "height": 806
   }
 }
