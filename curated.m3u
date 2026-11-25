@@ -247,6 +247,16 @@ http://173.208.234.146/live/vlxjyy.m3u8
 http://173.208.234.146/live/vlhjb.m3u8
 #EXTINF:-1 tvg-id="hometv.a3fd19c59b08c5d6" tvg-name="甄子丹电影" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/甄子丹.png" group-title="电影",甄子丹电影
 http://tv.zimtv.cn/tv/player/api/huya.php?id=11352935
+#EXTINF:-1 tvg-id="hometv.9f444cdafc2b5959" tvg-name="贺岁电影" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/电影_贺岁.png" group-title="电影",贺岁电影
+http://live.metshop.top/huya/11601971?cdn=alicdn
+#EXTINF:-1 tvg-id="hometv.d19268468140d52a" tvg-name="狄仁杰电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",狄仁杰电影
+https://live.metshop.top/huya/30080229
+#EXTINF:-1 tvg-id="hometv.57324469f30805f5" tvg-name="枪战电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",枪战电影
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 tvg-id="hometv.aa96dbf86722aa7c" tvg-name="古天乐电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",古天乐电影
+https://live.metshop.top/huya/29982675
+#EXTINF:-1 tvg-id="hometv.6cfb6fdb45694541" tvg-name="强森电影" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/虎牙直播.png" group-title="电影",强森电影
+https://live.metshop.top/huya/21059581
 #EXTINF:-1 tvg-id="hometv.8dbe09ec84b8d9bb" tvg-name="Hi-YAH! (1080p)" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-title="电影",Hi-YAH! (1080p)
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="hometv.94569f9e9c579307" tvg-name="Great! Movies (1080p)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3709.png" group-title="电影",Great! Movies (1080p)

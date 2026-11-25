@@ -7,9 +7,9 @@
   "acceptedCandidates": 311,
   "rejectedCandidates": 726,
   "visualCheckedChannels": 79,
-  "publishedChannels": 215,
+  "publishedChannels": 220,
   "manualIncludedCandidates": 17,
-  "manualUpdatedAt": "2026-10-28T05:03:38+00:00",
+  "manualUpdatedAt": "2026-11-25T08:00:42+00:00",
   "manualInclusions": [
     {
       "name": "Golf Channel（捷克）",
@@ -273,7 +273,7 @@
     "足球": 2,
     "综合体育": 6,
     "纪录片": 31,
-    "电影": 38,
+    "电影": 43,
     "电视剧·综艺": 33,
     "少儿动漫": 10,
     "国际新闻": 15,
@@ -290,139 +290,164 @@
     "temporarySignedOrUntrustedRelayIsRejected": true,
     "majorBrandFrameVerificationRequired": true
   },
-  "updatedAt": "2026-10-28T05:03:38+00:00",
+  "updatedAt": "2026-11-25T08:00:42+00:00",
   "lastExpansion": {
-    "generatedAt": "2026-10-28T05:03:38+00:00",
-    "scope": "仅追加用户确认的N01–N04中文电影线路；既有211个频道全部保留，不替换、不删除，也不将旧频道标记为本轮重新验证。",
-    "preservedExistingChannels": 211,
-    "newlyPublishedChannels": 4,
-    "testedNewCandidates": 4,
-    "shortlistedForSecondPass": 4,
-    "firstPassGood": 4,
-    "secondPassGood": 4,
-    "firstPassCompletedAt": "2026-10-28T05:01:44+00:00",
-    "secondPassCompletedAt": "2026-10-28T05:02:51+00:00",
-    "ordering": "CCTV6排在电影分类首位，其他三条置于华语频道区域；所有原频道的相对顺序不变。",
+    "generatedAt": "2026-11-25T08:00:42+00:00",
+    "scope": "仅追加用户确认的V52、V33、V31、V22、V25；既有215个频道全部原样保留，不删除、不替换、不把旧线路标为重新验证。",
+    "preservedExistingChannels": 215,
+    "newlyPublishedChannels": 5,
+    "testedNewCandidates": 5,
+    "shortlistedForSecondPass": 5,
+    "firstPassGood": 5,
+    "secondPassGood": 5,
+    "firstPassCompletedAt": "2026-11-25T07:52:20+00:00",
+    "secondPassCompletedAt": "2026-11-25T07:53:36+00:00",
+    "ordering": "仅在电影分类内追加：华语候选在前，强森电影随后，所有原频道相对顺序不变。",
     "channels": [
       {
-        "id": "N01",
-        "name": "CCTV6",
+        "id": "V52",
+        "name": "贺岁电影",
         "group": "电影",
-        "url": "http://69.30.245.50/live/cctv6.m3u8",
-        "width": 1280,
-        "height": 720,
-        "checks": [
-          {
-            "checkedAt": "2026-10-28T05:01:43+00:00",
-            "status": "GOOD",
-            "manifest_seconds": 0.855,
-            "speed_margin": 8.56,
-            "width": 1280,
-            "height": 720
-          },
-          {
-            "checkedAt": "2026-10-28T05:02:51+00:00",
-            "status": "GOOD",
-            "manifest_seconds": 0.877,
-            "speed_margin": 9.343,
-            "width": 1280,
-            "height": 720
-          }
-        ],
-        "playbackSeconds": 29.994667,
-        "frameVerified": true,
-        "sourcePage": "https://github.com/Free-TV/IPTV/blob/85d8e31ea77c0795711c42ade7be28b6524e891a/playlist.m3u8",
-        "resolutionNote": "轮播分辨率随片单变化；频道名称不承诺固定1080p。"
-      },
-      {
-        "id": "N02",
-        "name": "喜剧影院",
-        "group": "电影",
-        "url": "http://173.208.234.146/live/vlxjyy.m3u8",
-        "width": 1920,
-        "height": 1032,
-        "checks": [
-          {
-            "checkedAt": "2026-10-28T05:01:43+00:00",
-            "status": "GOOD",
-            "manifest_seconds": 0.855,
-            "speed_margin": 10.011,
-            "width": 1920,
-            "height": 1032
-          },
-          {
-            "checkedAt": "2026-10-28T05:02:51+00:00",
-            "status": "GOOD",
-            "manifest_seconds": 0.877,
-            "speed_margin": 11.159,
-            "width": 1920,
-            "height": 1032
-          }
-        ],
-        "playbackSeconds": 30.0,
-        "frameVerified": true,
-        "sourcePage": "https://github.com/CCSH/IPTV/blob/b8f7a1d6ca51d71bfc024b30be956acf3c304177/live.m3u",
-        "resolutionNote": "轮播分辨率随片单变化；频道名称不承诺固定1080p。"
-      },
-      {
-        "id": "N03",
-        "name": "洪金宝电影",
-        "group": "电影",
-        "url": "http://173.208.234.146/live/vlhjb.m3u8",
+        "url": "http://live.metshop.top/huya/11601971?cdn=alicdn",
         "width": 1920,
         "height": 1080,
         "checks": [
           {
-            "checkedAt": "2026-10-28T05:01:43+00:00",
             "status": "GOOD",
-            "manifest_seconds": 0.849,
-            "speed_margin": 9.209,
+            "manifest_seconds": 1.023,
+            "throughput_bps": 16407936,
+            "speed_margin": null,
             "width": 1920,
             "height": 1080
           },
           {
-            "checkedAt": "2026-10-28T05:02:51+00:00",
             "status": "GOOD",
-            "manifest_seconds": 0.872,
-            "speed_margin": 8.946,
+            "manifest_seconds": 0.914,
+            "throughput_bps": 18347519,
+            "speed_margin": null,
             "width": 1920,
             "height": 1080
           }
         ],
-        "playbackSeconds": 30.0,
+        "playbackSeconds": 29.8,
         "frameVerified": true,
-        "sourcePage": "https://github.com/CCSH/IPTV/blob/b8f7a1d6ca51d71bfc024b30be956acf3c304177/live.m3u",
-        "resolutionNote": "轮播分辨率随片单变化；频道名称不承诺固定1080p。"
+        "sourcePage": "https://github.com/vbskycn/iptv/blob/b4f844b09547a273b979132493550de8f9cdb2cd/tv/iptv4.m3u"
       },
       {
-        "id": "N04",
-        "name": "甄子丹电影",
+        "id": "V33",
+        "name": "狄仁杰电影",
         "group": "电影",
-        "url": "http://tv.zimtv.cn/tv/player/api/huya.php?id=11352935",
-        "width": 1916,
-        "height": 806,
+        "url": "https://live.metshop.top/huya/30080229",
+        "width": 1920,
+        "height": 818,
         "checks": [
           {
-            "checkedAt": "2026-10-28T05:01:44+00:00",
             "status": "GOOD",
-            "manifest_seconds": 0.261,
-            "speed_margin": 23.839,
-            "width": 1916,
-            "height": 806
+            "manifest_seconds": 1.134,
+            "throughput_bps": 14790080,
+            "speed_margin": null,
+            "width": 1920,
+            "height": 818
           },
           {
-            "checkedAt": "2026-10-28T05:02:51+00:00",
             "status": "GOOD",
-            "manifest_seconds": 0.203,
-            "speed_margin": 13.831,
-            "width": 1916,
-            "height": 806
+            "manifest_seconds": 2.959,
+            "throughput_bps": 5669074,
+            "speed_margin": null,
+            "width": 1920,
+            "height": 818
           }
         ],
-        "playbackSeconds": 30.0,
+        "playbackSeconds": 29.84,
         "frameVerified": true,
-        "sourcePage": "https://github.com/CCSH/IPTV/blob/b8f7a1d6ca51d71bfc024b30be956acf3c304177/live.m3u",
-        "resolutionNote": "轮播分辨率随片单变化；频道名称不承诺固定1080p。"
+        "sourcePage": "https://github.com/vbskycn/iptv/blob/b4f844b09547a273b979132493550de8f9cdb2cd/tv/iptv4.m3u"
+      },
+      {
+        "id": "V31",
+        "name": "枪战电影",
+        "group": "电影",
+        "url": "https://live.metshop.top/huya/21059579",
+        "width": 1280,
+        "height": 720,
+        "checks": [
+          {
+            "status": "GOOD",
+            "manifest_seconds": 2.357,
+            "throughput_bps": 7116954,
+            "speed_margin": null,
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "status": "GOOD",
+            "manifest_seconds": 0.993,
+            "throughput_bps": 16899954,
+            "speed_margin": null,
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "playbackSeconds": 29.84,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/vbskycn/iptv/blob/b4f844b09547a273b979132493550de8f9cdb2cd/tv/iptv4.m3u"
+      },
+      {
+        "id": "V22",
+        "name": "古天乐电影",
+        "group": "电影",
+        "url": "https://live.metshop.top/huya/29982675",
+        "width": 1280,
+        "height": 720,
+        "checks": [
+          {
+            "status": "GOOD",
+            "manifest_seconds": 5.35,
+            "throughput_bps": 3136070,
+            "speed_margin": null,
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "status": "GOOD",
+            "manifest_seconds": 6.857,
+            "throughput_bps": 2446555,
+            "speed_margin": null,
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "playbackSeconds": 29.866667,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/vbskycn/iptv/blob/b4f844b09547a273b979132493550de8f9cdb2cd/tv/iptv4.m3u"
+      },
+      {
+        "id": "V25",
+        "name": "强森电影",
+        "group": "电影",
+        "url": "https://live.metshop.top/huya/21059581",
+        "width": 1280,
+        "height": 720,
+        "checks": [
+          {
+            "status": "GOOD",
+            "manifest_seconds": 5.162,
+            "throughput_bps": 3250001,
+            "speed_margin": null,
+            "width": 1280,
+            "height": 720
+          },
+          {
+            "status": "GOOD",
+            "manifest_seconds": 6.762,
+            "throughput_bps": 2481221,
+            "speed_margin": null,
+            "width": 1280,
+            "height": 720
+          }
+        ],
+        "playbackSeconds": 29.866667,
+        "frameVerified": true,
+        "sourcePage": "https://github.com/vbskycn/iptv/blob/b4f844b09547a273b979132493550de8f9cdb2cd/tv/iptv4.m3u"
       }
     ]
   },

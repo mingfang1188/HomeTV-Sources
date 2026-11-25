@@ -4257,12 +4257,19 @@
     "name": "狄仁杰电影",
     "group": "电影",
     "url": "https://live.metshop.top/huya/30080229",
-    "status": "BAD",
-    "failures": 1,
-    "checkedAt": "2026-09-26T00:42:48+00:00",
-    "published": false,
-    "removedByUserAt": "2026-09-26T01:10:53+00:00",
-    "removalId": "P20"
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-11-25T07:53:36+00:00",
+    "published": true,
+    "addedByUserAt": "2026-11-25T08:00:42+00:00",
+    "selectionId": "V33",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 818
   },
   "2afdf18cb2e80d08ef1fcc774d91f9def65f81a22f78ceb49bc41508e0d9c56f": {
     "name": "庆余年",
@@ -4662,5 +4669,77 @@
     "qualityApproved": true,
     "width": 1916,
     "height": 806
+  },
+  "b74c77b0690cc0b8458e7d005cf2165f76f05a39d4d0184f9966f4b557159687": {
+    "name": "贺岁电影",
+    "group": "电影",
+    "url": "http://live.metshop.top/huya/11601971?cdn=alicdn",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-11-25T07:53:36+00:00",
+    "published": true,
+    "addedByUserAt": "2026-11-25T08:00:42+00:00",
+    "selectionId": "V52",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1920,
+    "height": 1080
+  },
+  "b67f4a62489d9e8b6e680b0ed250b1c16c3e664355f2e9c3676e243ca4b1386d": {
+    "name": "枪战电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/21059579",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-11-25T07:53:36+00:00",
+    "published": true,
+    "addedByUserAt": "2026-11-25T08:00:42+00:00",
+    "selectionId": "V31",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1280,
+    "height": 720
+  },
+  "59cbeaaa642d49342df53f21be9f86bcd52a136844294d1483370a826897b6ca": {
+    "name": "古天乐电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/29982675",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-11-25T07:53:36+00:00",
+    "published": true,
+    "addedByUserAt": "2026-11-25T08:00:42+00:00",
+    "selectionId": "V22",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1280,
+    "height": 720
+  },
+  "1c8bab871b258e1a93e6cc482675809dee9e4722556775e3fe5ef08a9a99cf8f": {
+    "name": "强森电影",
+    "group": "电影",
+    "url": "https://live.metshop.top/huya/21059581",
+    "status": "GOOD",
+    "failures": 0,
+    "checkedAt": "2026-11-25T07:53:36+00:00",
+    "published": true,
+    "addedByUserAt": "2026-11-25T08:00:42+00:00",
+    "selectionId": "V25",
+    "reviewPassStatuses": [
+      "GOOD",
+      "GOOD"
+    ],
+    "qualityApproved": true,
+    "width": 1280,
+    "height": 720
   }
 }
